@@ -1,0 +1,613 @@
+,Dog Name,Tattoo,Gender,Breed,Color,Birthdate,Dam,Sire ,Current Status Date,Status,Region,Pass_Fail
+76,Priscilla,5PP22,Female,LR,B,7/19/2022,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,9/12/2022,Released,,False
+80,Nana,4NN22,Female,LR,B,7/5/2022,Madeline - 7M20 - LRYF,Odin - 5OO19 - LRBM,8/29/2022,Released,,False
+84,Nifty,5NN22,Female,LR,B,7/5/2022,Madeline - 7M20 - LRYF,Odin - 5OO19 - LRBM,8/29/2022,Released,,False
+90,Moana (Dugan),1MM22,Female,LR,B,7/2/2022,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,8/25/2022,Released,,False
+95,Leone,2LL22,Male,LR,B,6/21/2022,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,8/15/2022,Released,,False
+101,Keoki (Kaelynn),9KK22,Female,GS,B&T,6/18/2022,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,8/17/2022,Other School,,True
+104,Kiara (Kara),2KK22,Female,GS,B&T,6/18/2022,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,8/17/2022,Other School,,True
+111,Joy (Keeva),2JJ22,Female,LR,B,6/16/2022,Dakota - 4D419 - LRYF,Odin - 5OO19 - LRBM,8/9/2022,Released,,False
+115,Puppy 4,4N01263,Male,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+116,Puppy 7,7N01263,Female,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+117,Puppy 8,8N01263,Male,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+118,Puppy 6,6N01263,Female,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+119,Puppy 5,5N01263,Female,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+120,Puppy 9,9N01263,Female,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+121,Puppy 1,1N01263,Male,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+122,Puppy 2,2N01263,Male,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+123,Puppy 3,3N01263,Female,LR,Y,6/13/2022,Ulani (Shanna) - 6UU20 - LRYF *NOP*,Garcia - 4G16 - LRYM,6/16/2022,Other School,,True
+130,Gru,1GG22,Male,GS,B&T,6/6/2022,Kindra - 3K319 - GSB&TF,Neil - P - 6N417 - GSB&TM,7/13/2022,Released,,False
+131,Finney,7FF22,Male,LR,B,6/1/2022,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,8/10/2022,Other School,,True
+134,Frisco,3FF22,Male,LR,Y,6/1/2022,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,8/8/2022,Other School,,True
+137,Fargo (Finnick),1FF22,Male,LR,Y,6/1/2022,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,8/2/2022,Released,,False
+138,Frito,2FF22,Female,LR,Y,6/1/2022,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,8/10/2022,Other School,,True
+139,Frazier,10FF22,Male,LR,Y,6/1/2022,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,8/10/2022,Other School,,True
+143,Esther,6EE22,Female,LR,B,5/17/2022,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,7/12/2022,Released,,False
+148,Eliza (Bodhi),2EE22,Female,LR,B,5/17/2022,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,7/11/2022,Released,,False
+149,Gaia,1N01267,Female,LR,Y,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,7/14/2022,Other School,,True
+150,Monsoon,1N01268,Male,LR,Y,5/16/2022,Breeze - 9B319 - LRYF *NOP*,Perry - 1P319 - LRBM,9/8/2022,Other School,,True
+151,Natty CDC F1,2N01268,Female,LR,B,5/16/2022,Breeze - 9B319 - LRYF *NOP*,Perry - 1P319 - LRBM,9/8/2022,Other School,,True
+152,Nugget CDC M1,5N01268,Male,LR,B,5/16/2022,Breeze - 9B319 - LRYF *NOP*,Perry - 1P319 - LRBM,9/8/2022,Other School,,True
+153,Casey NEADS,2N01267,Male,LR,Y,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+154,Neo CDC M2,3N01268,Male,LR,Y,5/16/2022,Breeze - 9B319 - LRYF *NOP*,Perry - 1P319 - LRBM,9/8/2022,Other School,,True
+155,Dakota NEADS,4N01267,Female,LR,Y,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+156,Minnie NEADS,6N01267,Female,LR,B,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+157,Apollo NEADS,5N01267,Male,LR,B,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+158,Novah CDC F2,4N01268,Female,LR,B,5/16/2022,Breeze - 9B319 - LRYF *NOP*,Perry - 1P319 - LRBM,9/8/2022,Other School,,True
+159,Moose NEADS,7N01267,Male,LR,B,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+160,Siren NEADS,8N01267,Female,LR,B,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+161,Chelsea NEADS,3N01267,Female,LR,B,5/16/2022,Sabrina (Charity 2041) - 8S20 - LRBF *NOP*,Everett - 1E419 - LRYM,9/8/2022,Other School,,True
+162,Doug (Hudson),2DD22,Male,LR,B,5/15/2022,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,7/8/2022,Released,,False
+167,Dream (Penny),1DD22,Female,LR,B,5/15/2022,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,7/8/2022,Released,,False
+170,Burt,1BB22,Male,LR,B,5/11/2022,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,7/6/2022,Released,,False
+179,Bevy (Bridget),7BB22,Female,LR,B,5/11/2022,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,7/6/2022,Released,,False
+186,Arthur,6AA22,Male,LR,Y,5/1/2022,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,6/24/2022,Released,,False
+187,Albert,7AA22,Male,LR,Y,5/1/2022,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,6/24/2022,Released,,False
+188,Pierre SSD,5N01266,Male,LR,B,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+189,Harrison SSD,3N01266,Male,LR,B,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+190,Bismark SSD,1N01266,Male,LR,Y,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+191,Tioga SSD,8N01266,Female,LR,B,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+192,Minot SSD,4N01266,Female,LR,Y,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+193,Spruce SSD,7N01266,Female,LR,Y,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+194,Silver SSD,6N01266,Male,LR,B,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,QUINCY SSD - LRBM,6/23/2022,Other School,,True
+195,Carson SSD,2N01266,Male,LR,B,4/15/2022,Dakota - S - 4D417 - LRBF *NOP*,Quincy SSD Shiloh II PADS - QUINCY SSD - LRBM,6/23/2022,Other School,,True
+202,Yvetta (Etta),7Y22,Female,LR,Y,4/13/2022,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,6/8/2022,Released,,False
+205,Walter (Toby),4W22,Male,LR,B,4/11/2022,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,6/6/2022,Released,,False
+208,Wes,7W22,Male,LR,B,4/11/2022,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,6/6/2022,Released,,False
+210,Vega (Cerbie),1V22,Female,LR,B,4/4/2022,Okemo - 7OO19 - LRBF,Bosley - 1B418 - LRBM,5/31/2022,Released,,False
+215,Verna (Madsen),9V22,Female,LR,Y,4/4/2022,Okemo - 7OO19 - LRBF,Bosley - 1B418 - LRBM,6/7/2022,Other School,,True
+219,Trilla (Dakota),5T22,Female,LR,B,4/2/2022,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,5/26/2022,Released,,False
+220,Tarzan,6T22,Male,LR,B,4/2/2022,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,5/26/2022,Released,,False
+222,Trinket,8T22,Female,LR,B,4/2/2022,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,5/27/2022,Released,,False
+224,Tangee (Tessa),9T22,Female,LR,B,4/2/2022,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,7/19/2022,Released,,False
+226,Sierra,1S22,Female,LR,B,3/26/2022,Terri - 3T18 - LRBF,Midnight - 4M19 - LRBM,5/19/2022,Released,,False
+233,Royal,5R22,Female,GS,B&T,3/21/2022,Xena - 2X20 - GSB&TF,Hobie - 1HH20 - GSB&TM,6/6/2022,Released,,False
+236,Quebec (Daisy),4Q22,Female,LR,B,3/18/2022,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,5/12/2022,Released,,False
+237,Quentin,6Q22,Male,LR,B,3/18/2022,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,5/12/2022,Released,,False
+243,Quigley,1Q22,Male,LR,B,3/18/2022,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,5/13/2022,Released,,False
+245,Quaker,3Q22,Female,LR,B,3/18/2022,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,6/22/2022,Released,,False
+247,Pongo,4P22,Male,LR,Y,3/17/2022,Tempest - 4TT18 - LRYF,Gomer - 4G319 - LRYM,5/25/2022,Released,,False
+249,Parsley,9P22,Female,LR,Y,3/17/2022,Tempest - 4TT18 - LRYF,Gomer - 4G319 - LRYM,5/16/2022,Released,,False
+252,Orion,3O22,Female,LR,B,3/12/2022,Piper - 1P318 - LRYF,Elrod - 6E319 - LRBM,6/22/2022,Released,,False
+254,Orlando (Finn),6O22,Male,LR,B,3/12/2022,Piper - 1P318 - LRYF,Elrod - 6E319 - LRBM,5/6/2022,Released,,False
+261,Neala (Bailey),2N22,Female,LR,Y,3/10/2022,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,5/5/2022,Released,,False
+263,Nutella,4N22,Male,LR,Y,3/10/2022,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,5/4/2022,Released,,False
+264,Nexus,5N22,Female,LR,Y,3/10/2022,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,5/14/2022,Other School,,True
+267,Mocha,3M22,Female,LR,B,2/27/2022,Cora - 4C19 - LRBF,Gomer - 4G319 - LRYM,4/22/2022,Released,,False
+270,Lila,3L22,Female,LR,B,2/26/2022,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,5/2/2022,Released,,False
+271,Lisa,6L22,Female,LR,B,2/26/2022,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,6/8/2022,Other School,,True
+272,Loyal,4L22,Female,LR,B,2/26/2022,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,5/2/2022,Released,,False
+276,Laura,9L22,Female,LR,B,2/26/2022,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,5/14/2022,Other School,,True
+278,Leslie,11L22,Female,LR,B,2/26/2022,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,6/8/2022,Other School,,True
+283,Kokomo,7K22,Female,LR,Y,2/25/2022,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,4/21/2022,Released,,False
+284,Kansas (Rosie),8K22,Female,LR,Y,2/25/2022,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,4/21/2022,Released,,False
+286,Keanu,2K22,Male,LR,B,2/25/2022,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,4/20/2022,Released,,False
+288,Kathy,4K22,Female,LR,Y,2/25/2022,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,6/7/2022,Other School,,True
+291,Jordan (Alfie),2J22,Male,LR,B,2/21/2022,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,4/18/2022,Released,,False
+298,Joshua (Cheecho),7J22,Male,LR,B,2/21/2022,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,4/19/2022,Released,,False
+299,Howie (Duke),9H22,Male,LR,B,2/7/2022,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,4/8/2022,Released,,False
+300,Italy,3I22,Female,LR,B,2/7/2022,Loretta - 2L20 - LRYF,Felix TSE - FELIX - LRBM *NOP*,4/20/2022,Other School,,True
+302,Intrigue,6I22,Female,LR,Y,2/7/2022,Loretta - 2L20 - LRYF,Felix TSE - FELIX - LRBM *NOP*,4/4/2022,Released,,False
+305,Ink,9I22,Male,LR,B,2/7/2022,Loretta - 2L20 - LRYF,Felix TSE - FELIX - LRBM *NOP*,4/20/2022,Other School,,True
+306,Hero,1H22,Male,LR,B,2/7/2022,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,5/2/2022,Released,,False
+308,Harlan (Cooper),5H22,Male,LR,Y,2/7/2022,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,4/8/2022,Released,,False
+317,Frisco,2F22,Male,LR,Y,1/31/2022,Venti - 6V315 - LRBF,Gomer - 4G319 - LRYM,4/1/2022,Released,,False
+318,Darwin,1D22,Male,LR,B,1/16/2022,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,3/11/2022,Released,,False
+320,Destiny,6D22,Female,LR,B,1/16/2022,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,3/11/2022,Released,,False
+321,Dempsey (Dustin),3D22,Male,LR,B,1/16/2022,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,4/12/2022,Other School,,True
+323,Dozer,7D22,Male,LR,B,1/16/2022,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,4/23/2022,Other School,,True
+325,Dex,8D22,Male,LR,B,1/16/2022,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,4/12/2022,Other School,,True
+328,Cara,1C22,Female,LR,Y,1/8/2022,Buttons - 4B19 - LRYF,Elton - 4EE20 - LRBM,7/18/2022,Released,Northern NJ Puppy Raising Region,False
+329,Cody,2C22,Male,LR,B,1/8/2022,Buttons - 4B19 - LRYF,Elton - 4EE20 - LRBM,3/17/2022,Released,,False
+330,Candy (Star),3C22,Female,LR,B,1/8/2022,Buttons - 4B19 - LRYF,Elton - 4EE20 - LRBM,4/4/2022,Other School,,True
+331,Cassidy,4C22,Female,LR,Y,1/8/2022,Buttons - 4B19 - LRYF,Elton - 4EE20 - LRBM,3/8/2022,Released,,False
+336,Bay (Lucy),2B22,Female,LR,B,1/6/2022,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,3/2/2022,Released,,False
+339,Bentley (Chris),5B22,Male,LR,B,1/6/2022,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,4/15/2022,Other School,,True
+340,Badge (Arlo),6B22,Male,LR,B,1/6/2022,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,4/5/2022,Released,,False
+342,Angus,2A22,Male,LR,B,1/2/2022,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,4/4/2022,Other School,,True
+343,Alastair,3A22,Male,LR,B,1/2/2022,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,4/4/2022,Other School,,True
+344,Asher,4A22,Male,LR,B,1/2/2022,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,2/28/2022,Released,,False
+345,Alana,7A22,Female,LR,B,1/2/2022,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,3/1/2022,Released,,False
+348,Allegra (Layla),8A22,Female,LR,B,1/2/2022,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,3/1/2022,Released,,False
+350,Woody,2W321,Male,LR,B,12/29/2021,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,2/22/2022,Released,,False
+351,Whisk (Billie),3W321,Female,LR,B,12/29/2021,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,2/22/2022,Released,,False
+354,Winthrop,6W321,Male,LR,B,12/29/2021,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,4/4/2022,Other School,,True
+355,Waver,7W321,Male,LR,B,12/29/2021,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,3/29/2022,Released,,False
+356,Winslow,8W321,Male,LR,B,12/29/2021,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,4/4/2022,Other School,,True
+357,Wrigley,9W321,Male,LR,B,12/29/2021,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,2/23/2022,Released,,False
+358,Veronica (Clover),1V321,Female,LR,B,12/22/2021,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,3/21/2022,Released,,False
+359,Vala,3V321,Female,LR,B,12/22/2021,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2/14/2022,Released,,False
+365,Vader,9V321,Male,LR,B,12/22/2021,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2/16/2022,Released,,False
+366,Vega (Tiki),11V321,Female,LR,B,12/22/2021,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2/16/2022,Released,,False
+367,"Twilight (Roisin ""Rosie"")",1T321,Female,LR,B,12/19/2021,Zayna - 5Z319 - LRYF,Opa - S - 5O319 - LRBM,2/12/2022,Released,,False
+371,Saint (Otis),5S321,Male,LR,B,12/18/2021,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2/14/2022,Other School,,True
+374,Skye (Piper),7S321,Female,LR,B,12/18/2021,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2/8/2022,Released,,False
+376,Sullivan (Harvey),3S321,Male,LR,B,12/18/2021,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2/14/2022,Other School,,True
+379,Russell,2R321,Male,LR,Y,12/17/2021,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,2/10/2022,Released,,False
+380,Raven,3R321,Female,LR,B,12/17/2021,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,3/11/2022,Released,,False
+382,Ricky (Ranger),5R321,Male,LR,Y,12/17/2021,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,2/10/2022,Released,,False
+388,Primo,2P321,Male,GS,B&T,12/7/2021,Duchess - 3DD19 - GSB&TF,Ogden - 5O314 - GSB&TM,2/1/2022,Released,,False
+391,Peggy,6P321,Female,GS,B&T,12/7/2021,Duchess - 3DD19 - GSB&TF,Ogden - 5O314 - GSB&TM,2/1/2022,Released,,False
+394,Ocala,4O321,Female,LR,Y,12/4/2021,Zelda - 1Z319 - LRBF,Baron - 4B20 - LRBM,1/28/2022,Other School,,True
+396,Natasha (Truffle),3N321,Female,LR,Y,12/2/2021,Goldie - 1G20 - LRYF,Eduardo - 4E419 - LRYM,1/25/2022,Released,,False
+399,Noel (Goldie),6N321,Female,LR,Y,12/2/2021,Goldie - 1G20 - LRYF,Eduardo - 4E419 - LRYM,1/25/2022,Released,,False
+402,Maxine (Abby),1M321,Female,LR,Y,11/26/2021,Sally - 5S19 - LRBF,Charlie - 10CC17 - LRYM,1/20/2022,Released,,False
+403,Mazie (Lucy),2M321,Female,LR,Y,11/26/2021,Sally - 5S19 - LRBF,Charlie - 10CC17 - LRYM,2/13/2022,Other School,,True
+406,Landon (Teddy),1L321,Male,LR,B,11/19/2021,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2/9/2022,Other School,,True
+409,Lisa,4L321,Female,LR,Y,11/19/2021,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,1/18/2022,Other School,,True
+410,Lionel (Lionel V),6L321,Male,LR,B,11/19/2021,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2/10/2022,Other School,,True
+411,Luigi (Balto),11L321,Male,LR,B,11/19/2021,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2/9/2022,Other School,,True
+412,Lucky (Wally),8L321,Male,LR,Y,11/19/2021,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,1/13/2022,Released,,False
+414,Lucas (Trapper),10L321,Male,LR,B,11/19/2021,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2/9/2022,Other School,,True
+415,Kingsley,1K321,Male,GS,B&T,11/17/2021,Shea - 5SS18 - GSBF,Eric - 2E19 - GSB&TM,12/29/2021,Released,,False
+417,Kraus (Kosmo),3K321,Male,GS,B&T,11/17/2021,Shea - 5SS18 - GSBF,Eric - 2E19 - GSB&TM,2/15/2022,Released,New Hampshire Puppy Raising Region,False
+418,Joelle (Augie),1J321,Female,LR,Y,11/15/2021,Liza - 5L318 - LRBF,Shadow - 1S19 - LRBM,1/10/2022,Released,,False
+422,Ingalls,2I321,Male,LR,B,11/5/2021,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,12/30/2021,Released,,False
+423,Ina (Merrie),7I321,Female,LR,B,11/5/2021,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,2/13/2022,Other School,,True
+424,Ives (Brady),3I321,Male,LR,B,11/5/2021,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,12/30/2021,Released,,False
+428,Icabod (Cassatt),8I321,Male,LR,B,11/5/2021,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,2/10/2022,Other School,,True
+431,Hadley (Poppy),1H321,Female,LR,B,11/3/2021,Mildred - 1M315 - LRBF,Odin - 5OO19 - LRBM,12/28/2021,Released,,False
+433,Hubert (Robie III),2H321,Male,LR,B,11/3/2021,Mildred - 1M315 - LRBF,Odin - 5OO19 - LRBM,2/10/2022,Other School,,True
+434,Herman,4H321,Male,LR,B,11/3/2021,Mildred - 1M315 - LRBF,Odin - 5OO19 - LRBM,1/12/2022,Released,,False
+437,Galahad (Yoda),4G321,Male,LR,Y,10/23/2021,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,1/20/2022,Other School,,True
+442,Gretel (Rockie),1G321,Female,LR,B,10/23/2021,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,12/16/2021,Released,,False
+443,Garrett (Winston),2G321,Male,LR,Y,10/23/2021,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,1/20/2022,Other School,,True
+446,Fusilli,3F321,Male,LR,B,10/11/2021,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,12/7/2021,Released,,False
+448,Flo,5F321,Female,LR,B,10/11/2021,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,9/13/2022,Released,Cleveland West Puppy Raising Region,False
+450,Fate,6F321,Female,LR,B,10/11/2021,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,12/7/2021,Released,,False
+451,Dusty (A-Nara),1D321,Female,GS,SABL,10/10/2021,Tawny - 1T318 - GSSABLF,Rugby - 2R319 - GSSABLM,12/10/2021,Other School,,True
+455,Eastman (Dylan),1E321,Male,LR,B,10/10/2021,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,1/20/2022,Other School,,True
+457,Etta (Saylor),5E321,Female,LR,B,10/10/2021,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,12/10/2021,Released,,False
+462,Chloe,1C321,Female,LR,B,10/6/2021,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,12/3/2021,Released,,False
+468,Captain (Castor),7C321,Male,LR,Y,10/6/2021,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,11/22/2021,Released,,False
+471,Beauty (Olympia),8B321,Female,LR,B,10/2/2021,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,12/1/2021,Released,,False
+472,Bexley,2B321,Male,LR,B,10/2/2021,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,12/11/2021,Other School,,True
+476,Bob,9B321,Male,LR,B,10/2/2021,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,12/11/2021,Other School,,True
+478,Aladdin,2A321,Male,LR,B,10/2/2021,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,11/30/2021,Released,,False
+479,Alonzo (Murphy),3A321,Male,LR,B,10/2/2021,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,12/8/2021,Released,,False
+480,Amtrak,4A321,Male,LR,B,10/2/2021,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,9/1/2022,Released,Dominion Puppy Raising Region,False
+485,Zoe,5ZZ21,Female,LR,Y,9/24/2021,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,11/19/2021,Released,,False
+486,Zodiac,4ZZ21,Male,LR,Y,9/24/2021,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,12/13/2021,Other School,,True
+489,Zircon (Buddy),9ZZ21,Male,LR,Y,9/24/2021,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,12/17/2021,Other School,,True
+493,Yeti (Duke B230),1YY21,Male,LR,Y,9/23/2021,Kyra - 5KK18 - LRBF,Enrico - 7EE19 - LRBM,12/13/2021,Other School,,True
+497,Yin (Monty),4YY21,Male,LR,B,9/23/2021,Kyra - 5KK18 - LRBF,Enrico - 7EE19 - LRBM,11/17/2021,Released,,False
+499,Walden (Oliver),1WW21,Male,LR,Y,9/13/2021,Ivory - 3II17 - LRYF,Shadow - 1S19 - LRBM,11/3/2021,Released,,False
+500,Virginia (Vancouver),5VV21,Female,LR,B,9/9/2021,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,12/11/2021,Other School,,True
+501,Villa,6VV21,Female,LR,B,9/9/2021,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,12/11/2021,Other School,,True
+504,Valkyrie (Taz),10VV21,Female,LR,B,9/9/2021,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,12/8/2021,Released,,False
+505,Valaria (Valencia),1VV21,Female,LR,B,9/9/2021,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,12/11/2021,Other School,,True
+506,Verona,2VV21,Female,LR,B,9/9/2021,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,12/11/2021,Other School,,True
+514,Treasure (Zuri Elia),6TT21,Female,GS,B&T,9/2/2021,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,10/26/2021,Released,,False
+516,Travis (Argos),4TT21,Male,GS,B&T,9/2/2021,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,10/28/2021,Other School,,True
+518,Trish,7TT21,Female,GS,B&T,9/2/2021,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,4/13/2022,Released,Columbus Puppy Raising Region,False
+519,Twyla (A-Heidi),8TT21,Female,GS,B&T,9/2/2021,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,10/28/2021,Other School,,True
+520,Sanchez,1SS21,Male,LR,B,9/1/2021,Alibi - 2A416 - LRBF,Colonel - 2C319 - LRYM,10/25/2021,Released,,False
+521,Sherry (Zora),2SS21,Female,LR,B,9/1/2021,Alibi - 2A416 - LRBF,Colonel - 2C319 - LRYM,12/11/2021,Other School,,True
+524,Sean (Quito),5SS21,Male,LR,Y,9/1/2021,Alibi - 2A416 - LRBF,Colonel - 2C319 - LRYM,10/25/2021,Released,,False
+534,Pearl,7PP21,Female,LR,Y,8/19/2021,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,10/15/2021,Released,,False
+546,Opus,8OO21,Male,LR,B,8/16/2021,Essence - 3EE18 - LRBF,Enrico - 7EE19 - LRBM,10/12/2021,Released,,False
+547,Kent SSD,3N01265,Male,LR,B,8/11/2021,Dakota - S - 4D417 - LRBF *NOP*,Perry - 1P319 - LRBM,6/16/2022,Other School,,True
+551,Nathan (Hobbes),6NN21,Male,LR,B,8/11/2021,Gibby - 2G19 - LRBF,Finn - 7F315 - LRYM,10/4/2021,Released,,False
+554,Francis WCC Lois SSD,2N01265,Female,LR,B,8/11/2021,Dakota - S - 4D417 - LRBF *NOP*,Perry - 1P319 - LRBM,8/11/2021,Other School,,True
+557,Merrie,1MM21,Female,LR,B,8/7/2021,Promise - 2P319 - LRYF,Shadow - 1S19 - LRBM,10/15/2021,Released,,False
+560,Dilly Can Do,6N01262,Female,LR,B,8/6/2021,Breeze - 9B319 - LRYF *NOP*,Odin - 5OO19 - LRBM,6/16/2022,Other School,,True
+561,Deja Can Do,3N01262,Female,LR,B,8/6/2021,Breeze - 9B319 - LRYF *NOP*,Odin - 5OO19 - LRBM,6/16/2022,Other School,,True
+562,Dash Can Do,2N01262,Male,LR,B,8/6/2021,Breeze - 9B319 - LRYF *NOP*,Odin - 5OO19 - LRBM,6/16/2022,Other School,,True
+563,Dani Can Do,1N01262,Female,LR,B,8/6/2021,Breeze - 9B319 - LRYF *NOP*,Odin - 5OO19 - LRBM,6/16/2022,Other School,,True
+565,Lash (Marcello),3LL21,Male,LR,B,8/5/2021,Nell - 7N416 - LRBF,Donny - 2D419 - LRBM,9/29/2021,Released,,False
+568,Lenny (Cisco),5LL21,Male,LR,B,8/5/2021,Nell - 7N416 - LRBF,Donny - 2D419 - LRBM,9/29/2021,Released,,False
+572,Kai,8KK21,Male,LR,B,7/27/2021,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,9/20/2021,Released,,False
+576,Kelley,7KK21,Female,LR,B,7/27/2021,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,9/21/2021,Released,,False
+577,Kate,9KK21,Female,LR,B,7/27/2021,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,2/10/2022,Released,Eastern CT Puppy Raising Region,False
+578,Jonah,1JJ21,Male,LR,Y,7/14/2021,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,3/21/2022,Released,Maine Puppy Raising Region,False
+579,Jett (Guinness),2JJ21,Male,LR,B,7/14/2021,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,9/8/2021,Released,,False
+581,Jordana (Maya),6JJ21,Female,LR,Y,7/14/2021,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,9/8/2021,Released,,False
+584,Josie,7JJ21,Female,LR,Y,7/14/2021,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,9/8/2021,Released,,False
+587,Izzie (Nani),2II21,Female,LR,Y,7/12/2021,Farrah - 9F318 - LRYF,Gomer - 4G319 - LRYM,9/7/2021,Released,,False
+592,Herman,5HH21,Male,LR,B,7/9/2021,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,9/3/2021,Released,,False
+596,Hugh (Gibby),1HH21,Male,LR,Y,7/9/2021,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,9/2/2021,Released,,False
+605,Fred,8FF21,Male,LR,B,7/2/2021,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,8/18/2021,Released,,False
+607,Fancy (Willow),5FF21,Female,LR,B,7/2/2021,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,8/26/2021,Released,,False
+609,Fiesta (Rosina),7FF21,Female,LR,B,7/2/2021,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,8/27/2021,Released,,False
+613,Ed (Eddie),1EE21,Male,LR,B,6/29/2021,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,1/13/2022,Released,Columbus Puppy Raising Region,False
+614,Enzo,2EE21,Male,LR,B,6/29/2021,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,6/24/2022,Released,Eastern CT Puppy Raising Region,False
+617,Elias,5EE21,Male,LR,B,6/29/2021,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,8/23/2021,Released,,False
+618,Echo,6EE21,Female,LR,B,6/29/2021,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,8/24/2021,Released,,False
+622,Chloe (Rosy),1CC21,Female,LR,B,6/24/2021,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,8/18/2021,Released,,False
+625,Cypress (Sophie),2CC21,Female,LR,B,6/24/2021,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,8/18/2021,Released,,False
+633,Dottie (Sadie),4DD21,Female,LR,B,6/24/2021,Caprice - 8C318 - LRBF,Ryan - 9RR17 - LRYM,8/19/2021,Released,,False
+635,Broadway,1BB21,Female,LR,B,6/18/2021,Buttons - 4B19 - LRYF,Arnie - 2A418 - LRBM,8/26/2021,Released,,False
+636,Belinda,3BB21,Female,LR,B,6/18/2021,Buttons - 4B19 - LRYF,Arnie - 2A418 - LRBM,8/13/2021,Released,,False
+648,Yaeger,4Y21,Male,LR,Y,6/15/2021,Raelyn - 8R318 - LRBF,Gomer - 4G319 - LRYM,8/10/2021,Released,,False
+649,Yvonne (Zia),6Y21,Female,LR,B,6/15/2021,Raelyn - 8R318 - LRBF,Gomer - 4G319 - LRYM,8/9/2021,Released,,False
+653,Waffle,4W21,Female,LR,B,6/10/2021,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,8/4/2021,Released,,False
+658,Wilbur,2W21,Male,LR,B,6/10/2021,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,8/6/2021,Other School,,True
+660,Winslet,9W21,Female,LR,B,6/10/2021,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,8/4/2021,Released,,False
+662,Valdez (Tux),5V21,Male,LR,B,6/9/2021,Piper - 1P318 - LRYF,Bosley - 1B418 - LRBM,8/3/2021,Released,,False
+665,Vader (Leo),3V21,Male,LR,B,6/9/2021,Piper - 1P318 - LRYF,Bosley - 1B418 - LRBM,8/3/2021,Released,,False
+669,Ulani (Bailey),2U21,Female,LR,B,6/1/2021,Cora - 4C19 - LRBF,Jensen - 7J409 - LRYM,7/26/2021,Released,,False
+677,Sawyer (Scottsdale),7S21,Male,LR,Y,5/26/2021,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,7/27/2021,Released,,False
+679,Sunny,5S21,Female,LR,Y,5/26/2021,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,5/20/2022,Released,Eastern MA Puppy Raising Region,False
+681,Simba,4S21,Male,LR,Y,5/26/2021,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,7/20/2021,Released,,False
+682,Splash,6S21,Male,LR,Y,5/26/2021,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,7/20/2021,Released,,False
+683,Scout,8S21,Male,LR,Y,5/26/2021,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,2/3/2022,Released,Northern NJ Puppy Raising Region,False
+685,Racer (Rafa),9R21,Male,LR,Y,5/21/2021,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,7/15/2021,Released,,False
+693,Quinn,1Q21,Male,LR,B,5/20/2021,Aloe - 5A17 - LRYF,Elrod - 6E319 - LRBM,8/16/2022,In Training,Adirondack Puppy Raising Region,False
+698,Oahu (Riesling Reese),1O21,Female,LR,Y,5/12/2021,Capri - 2C17 - LRBF,Octane - P - 5O416 - LRYM,7/6/2021,Released,,False
+708,Margaret,1M21,Female,LR,B,5/6/2021,Dior - 5D418 - LRBF,Yarmouth - 2YY18 - LRYM,6/30/2021,Released,,False
+713,Mimi (Ruby),6M21,Female,LR,B,5/6/2021,Dior - 5D418 - LRBF,Yarmouth - 2YY18 - LRYM,6/30/2021,Released,,False
+714,Cocoa NEADS,9N01261,Male,LR,B,4/21/2021,Bettina - 10B317 - LRYF *NOP*,Elrod - 6E319 - LRBM,4/21/2021,Other School,,True
+715,Fava NEADS,3N01261,Female,LR,B,4/21/2021,Bettina - 10B317 - LRYF *NOP*,Elrod - 6E319 - LRBM,4/21/2021,Other School,,True
+716,Lima NEADS,5N01261,Female,LR,B,4/21/2021,Bettina - 10B317 - LRYF *NOP*,Elrod - 6E319 - LRBM,4/21/2021,Other School,,True
+717,Garbanzo NEADS,4N01261,Male,LR,B,4/21/2021,Bettina - 10B317 - LRYF *NOP*,Elrod - 6E319 - LRBM,4/21/2021,Other School,,True
+718,Pea NEADS,6N01261,Female,LR,B,4/21/2021,Bettina - 10B317 - LRYF *NOP*,Elrod - 6E319 - LRBM,4/21/2021,Other School,,True
+719,Sprout NEADS,8N01261,Male,LR,B,4/21/2021,Bettina - 10B317 - LRYF *NOP*,Elrod - 6E319 - LRBM,4/21/2021,Other School,,True
+726,Laramie,7L21,Male,LR,Y,4/15/2021,Helen - 3HH19 - LRYF,Barlow - P - 5B08 - LRYM,6/14/2021,Released,,False
+731,Kodiak (Cody),5K21,Male,LR,Y,4/14/2021,Oriole - 9O316 - LRYF,Arby - 5A319 - LRBM,6/9/2021,Released,,False
+737,Ilaria (Lucy),2I21,Female,LR,B,4/9/2021,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,5/26/2022,Released,Orange County Puppy Raising Region,False
+741,Italy (Luna),5I21,Female,LR,B,4/9/2021,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,6/7/2021,Released,,False
+747,Holly,5H21,Female,LR,B,4/8/2021,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,7/19/2022,In Training,Columbus Puppy Raising Region,False
+749,Felix,3F21,Male,GS,B&T,3/31/2021,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,8/16/2022,In Training,Dominion Puppy Raising Region,False
+750,Fritz,4F21,Male,GS,B&T,3/31/2021,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,8/31/2022,In Training,New Hampshire Puppy Raising Region,False
+753,Fame,7F21,Female,GS,B&T,3/31/2021,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,8/31/2022,In Training,Region,False
+757,Gonzo,5G21,Male,LR,B,3/31/2021,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,6/9/2022,Released,Baltimore Puppy Raising Region,False
+758,General,6G21,Male,LR,B,3/31/2021,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,11/29/2021,Released,Region,False
+760,Gemini,7G21,Female,LR,B,3/31/2021,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,8/31/2022,In Training,New Hampshire Puppy Raising Region,False
+764,Frisco (Apollo),2F21,Male,GS,B&T,3/31/2021,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,5/26/2021,Released,,False
+766,Edison,3E+21,Male,LR,B,3/27/2021,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2/15/2022,Released,Westchester County Puppy Raising Region,False
+767,Eden,5E+21,Female,LR,B,3/27/2021,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,8/3/2022,In Training,Bay Puppy Raising Region,False
+768,Epcot,6E+21,Male,LR,B,3/27/2021,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,8/3/2022,In Training,Bay Puppy Raising Region,False
+769,Enya,4E+21,Female,LR,B,3/27/2021,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,8/31/2022,In Training,Dominion Puppy Raising Region,False
+770,Eve,7E+21,Female,LR,B,3/27/2021,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,8/16/2022,In Training,Northern CT Puppy Raising Region,False
+771,Dalton (Einstein),6D21,Male,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,3/12/2021,Released,,False
+772,Dan,1D21,Male,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,7/7/2022,In Training,Orange County Puppy Raising Region,False
+774,Kozy,3D21,Male,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,6/29/2022,In Training,Northern NJ Puppy Raising Region,False
+775,Donna,4D21,Female,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,3/11/2021,Released,,False
+776,Kemp,5D21,Male,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,8/16/2022,In Training,Southern CT Puppy Raising region,False
+777,Douglas,7D21,Male,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,7/19/2022,In Training,Central NY Puppy Raising Region,False
+779,Diego,9D21,Male,LR,B,1/13/2021,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,8/31/2022,In Training,Southern CT Puppy Raising region,False
+780,Josephine,5C21,Female,LR,B,1/11/2021,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,6/29/2022,In Training,Eastern MA Puppy Raising Region,False
+781,Sully,1C21,Male,LR,B,1/11/2021,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,8/31/2022,In Training,Central NY Puppy Raising Region,False
+782,Liberty,3C21,Female,LR,B,1/11/2021,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,7/19/2022,In Training,SWCT Puppy Raising Region,False
+783,Constance,4C21,Female,LR,B,1/11/2021,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,1/12/2022,Released,Central NY Puppy Raising Region,False
+785,Captain (Riley),7C21,Male,LR,B,1/11/2021,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,3/10/2021,Released,,False
+786,Becket,7B21,Male,GS,SABL,1/8/2021,Mittzy - 2M318 - GSB&TF,GSSABLM *NOP*,5/27/2022,Released,Delmarva Puppy Raising Region,False
+787,Bethany,3B21,Female,GS,SABL,1/8/2021,Mittzy - 2M318 - GSB&TF,GSSABLM *NOP*,7/21/2022,Released,Capital NY Puppy Raising Region,False
+788,Baltic (A-Cedar),4B21,Male,GS,B&T,1/8/2021,Mittzy - 2M318 - GSB&TF,GSSABLM *NOP*,3/11/2021,Other School,,True
+789,Bill,5B21,Male,GS,B&T,1/8/2021,Mittzy - 2M318 - GSB&TF,GSSABLM *NOP*,5/26/2022,Released,Central NY Puppy Raising Region,False
+790,Buck,6B21,Male,GS,SABL,1/8/2021,Mittzy - 2M318 - GSB&TF,GSSABLM *NOP*,8/19/2022,Released,Cleveland West Puppy Raising Region,False
+791,Badger,8B21,Male,GS,SABL,1/8/2021,Mittzy - 2M318 - GSB&TF,Kayden FGDF K28- - KAYDEN - GSSABLM *NOP*,3/17/2022,Released,Northern NJ Puppy Raising Region,False
+792,Balsam,1B21,Female,GS,SABL,1/8/2021,Mittzy - 2M318 - GSB&TF,Kayden FGDF K28- - KAYDEN - GSSABLM *NOP*,3/8/2021,Released,,False
+793,Bria,2B21,Female,GS,SABL,1/8/2021,Mittzy - 2M318 - GSB&TF,Kayden FGDF K28- - KAYDEN - GSSABLM *NOP*,6/13/2022,Released,Northern NJ Puppy Raising Region,False
+794,Amethyst,1A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,8/16/2022,In Training,Southern CT Puppy Raising region,False
+795,Ava,2A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,8/31/2022,In Training,Eastern CT Puppy Raising Region,False
+796,Alice,3A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,8/31/2022,In Training,Catoctin Puppy Raising Region,False
+797,Arlene,9A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,8/31/2022,In Training,Eastern CT Puppy Raising Region,False
+799,Aruba,7A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,8/31/2022,Released,Catoctin Puppy Raising Region,False
+800,Alfie2,5A21,Male,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,6/29/2022,In Training,Eastern CT Puppy Raising Region,False
+801,Adeline,10A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,8/24/2022,Released,Columbus Puppy Raising Region,False
+802,Ann,8A21,Female,LR,B,1/3/2021,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,5/17/2022,In Training,Westchester County Puppy Raising Region,False
+803,Gamma,1G320,Female,LR,Y,12/27/2020,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,1/25/2022,Released,Central NY Puppy Raising Region,False
+804,Gus,2G320,Male,LR,Y,12/27/2020,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,7/7/2022,In Training,Delmarva Puppy Raising Region,False
+805,Giblet,3G320,Female,LR,Y,12/27/2020,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,2/4/2022,Released,SWCT Puppy Raising Region,False
+806,Ginko,8G320,Female,LR,B,12/27/2020,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,8/4/2022,Released,Westchester County Puppy Raising Region,False
+807,Greeley,10G320,Female,LR,B,12/27/2020,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,8/16/2022,In Training,Eastern CT Puppy Raising Region,False
+808,Graham,9G320,Male,LR,B,12/27/2020,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,5/24/2022,In Training,Bay Puppy Raising Region,False
+810,Nessie FGDF,NESSIE FGD,Female,GS,B&T,12/23/2020,CYPRUSFGDF - GSB&TF *NOP*,Timber FGDF - TIMBER FGD - GSB&TM *NOP*,9/4/2022,Other School,,True
+811,Fairlee,1F320,Female,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,8/16/2022,In Training,Delmarva Puppy Raising Region,False
+812,Flower,2F320,Female,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,8/31/2022,In Training,Leatherstocking NY Puppy Raising Region,False
+813,Florie,4F320,Female,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,7/28/2022,In Training,Central CT Puppy Raising Region,False
+814,Fay,6F320,Female,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,8/31/2022,In Training,Southern CT Puppy Raising region,False
+815,Fulton,7F320,Male,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,8/31/2022,In Training,Delmarva Puppy Raising Region,False
+816,Fanta,5F320,Female,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,7/19/2022,Released,Columbus Puppy Raising Region,False
+817,Forest,3F320,Male,LR,B,12/22/2020,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,8/3/2022,Released,Region,False
+818,Everley,5E320,Male,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,1/12/2022,Released,Erie NY Puppy Raising Region,False
+819,Elijah,6E320,Male,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,6/29/2022,In Training,Leatherstocking NY Puppy Raising Region,False
+820,Ensign,7E320,Male,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,6/29/2022,In Training,Bay Puppy Raising Region,False
+821,Edsel,8E320,Male,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2/17/2021,Released,,False
+822,Eleanor,1E320,Female,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,6/14/2022,In Training,Leatherstocking NY Puppy RaisingRegion,False
+823,Elmo,2E320,Male,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,9/15/2021,Released,Columbus Puppy Raising Region,False
+824,Emmylou,3E320,Female,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,6/14/2022,In Training,Central NY Puppy Raising Region,False
+825,Epic,4E320,Male,LR,B,12/17/2020,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,5/17/2022,In Training,Richmond Puppy Raising Region,False
+826,Dickens,2D320,Male,LR,B,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,10/21/2021,Released,Monroe NY Puppy Raising Region,False
+827,Donner (Sonoma),3D320,Male,LR,B,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,2/11/2021,Released,,False
+828,Dorothy,6D320,Female,LR,Y,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,6/21/2022,Released,Erie NY Puppy Raising Region,False
+829,Deacon,7D320,Male,LR,B,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,7/6/2022,Released,Erie NY Puppy Raising Region,False
+830,Denver (Phineas),1D320,Male,LR,Y,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,2/10/2021,Released,,False
+831,Deputy (Dempsey),4D320,Male,LR,Y,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,2/7/2022,Released,Erie NY Puppy Raising Region,False
+832,Daniel,5D320,Male,LR,Y,12/15/2020,Erin - P - 5E315 - LRCHOCF,Kisco - 6KK18 - LRYM,6/16/2022,Released,Fingerlakes Puppy Raising Region,False
+833,Charlene,4C320,Female,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,8/16/2022,In Training,Cleveland East Puppy Raising Region,False
+834,Carson (Ollie),6C320,Male,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2/8/2021,Released,,False
+835,Chaz (Moose),7C320,Male,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2/8/2021,Released,,False
+836,Cayenne,8C320,Female,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,8/16/2022,In Training,Cleveland East Puppy Raising Region,False
+837,Chevy,2C320,Male,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,8/31/2022,In Training,Columbus Puppy Raising Region,False
+839,Catalina,1C320,Female,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,8/31/2022,In Training,Cleveland East Puppy Raising Region,False
+840,Caitlyn (JoJo),5C320,Female,LR,B,12/12/2020,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,6/13/2022,Released,Cleveland West Puppy Raising Region,False
+841,Breezy,2B320,Female,LR,B,12/8/2020,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,8/16/2022,In Training,Southern Tier NY Puppy Raising Region,False
+842,Bryce,5B320,Male,LR,Y,12/8/2020,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,7/19/2022,In Training,Cattaraugus Puppy Raising Region,False
+843,Bahama,7B320,Female,LR,Y,12/8/2020,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,1/26/2022,Released,Cattaraugus Puppy Raising Region,False
+844,Benny,3B320,Male,LR,B,12/8/2020,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2/3/2021,Released,,False
+845,Bella,4B320,Female,LR,Y,12/8/2020,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,6/29/2022,In Training,Southwestern VT Puppy Raising Region,False
+846,Barbara,8B320,Female,LR,Y,12/8/2020,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,6/29/2022,In Training,Monroe NY Puppy Raising Region,False
+847,Alani,2A320,Female,LR,B,12/4/2020,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,9/7/2022,Released,Monroe NY Puppy Raising Region,False
+848,Admiral,3A320,Male,LR,B,12/4/2020,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,5/6/2022,In Training,Southwestern VT Puppy Raising Region,False
+849,Acadia,4A320,Female,LR,B,12/4/2020,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,7/19/2022,In Training,Monroe NY Puppy Raising Region,False
+850,Amore,6A320,Female,LR,B,12/4/2020,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,2/1/2022,Released,Columbus Puppy Raising Region,False
+851,Aurora,5A320,Female,LR,B,12/4/2020,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,5/17/2022,Released,Westchester County Puppy Raising Region,False
+853,Yardley,2YY20,Female,LR,B,11/19/2020,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,7/19/2022,In Training,Capital NY Puppy Raising Region,False
+854,Yolanda,4YY20,Female,LR,B,11/19/2020,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2/3/2021,Other School,,True
+855,Yamaha,5YY20,Male,LR,B,11/19/2020,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,7/19/2022,In Training,Adirondack Puppy Raising Region,False
+856,York,7YY20,Male,LR,B,11/19/2020,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,7/8/2022,In Training,Erie NY Puppy Raising Region,False
+857,Yosemite (Joey),8YY20,Male,LR,B,11/19/2020,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,6/14/2022,Released,Westchester County Puppy Raising Region ,False
+858,Yoda,9YY20,Male,LR,B,11/19/2020,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,9/8/2022,In Training,Capital NY Puppy Raising Region,False
+859,Winfrey,1WW20,Female,LR,B,11/18/2020,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,8/16/2022,In Training,Southwestern VT Puppy Raising Region,False
+860,Wilder,5WW20,Female,LR,B,11/18/2020,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,7/19/2022,In Training,Capital NY Puppy Raising Region,False
+861,Weston,2WW20,Male,LR,B,11/18/2020,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,8/16/2022,In Training,Adirondack Puppy Raising Region,False
+862,Winona,3WW20,Female,LR,B,11/18/2020,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,6/29/2022,In Training,Eastern MA Puppy Raising Region,False
+863,Wind (Murphy),4WW20,Female,LR,B,11/18/2020,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,1/14/2021,Released,,False
+864,Vanessa,1VV20,Female,LR,Y,11/10/2020,Bianca - P - 5B317 - LRYF,Capone - 4C318 - LRBM,3/15/2022,Released,Westchester County Puppy Raising Region,False
+865,Vera,2VV20,Female,LR,B,11/10/2020,Bianca - P - 5B317 - LRYF,Capone - 4C318 - LRBM,4/20/2022,Released,Westchester County Puppy Raising Region ,False
+866,Vista,3VV20,Female,LR,Y,11/10/2020,Bianca - P - 5B317 - LRYF,Capone - 4C318 - LRBM,5/17/2022,In Training,North Carolina Puppy Raising Region,False
+867,Vinny,5VV20,Male,LR,Y,11/10/2020,Bianca - P - 5B317 - LRYF,Capone - 4C318 - LRBM,7/18/2022,Released,Colorado Puppy Raising Region,False
+868,Utah,1UU20,Male,LR,Y,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,5/5/2022,Released,Capital NY Puppy Raising Region,False
+869,Umpire,4UU20,Male,LR,Y,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,6/14/2022,In Training,Central NY Puppy Raising Region,False
+870,Unity,5UU20,Female,LR,B,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,1/12/2022,Released,Dutchess NY Puppy Raising Region,False
+871,Ulani (Shanna),6UU20,Female,LR,Y,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,4/3/2022,Other School,,True
+872,Ulla,10UU20,Female,LR,B,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,8/8/2022,Released,Richmond Puppy Raising Region,False
+873,Uber,9UU20,Male,LR,Y,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,6/29/2022,In Training,Richmond Puppy Raising Region,False
+874,Ultra,2UU20,Female,LR,Y,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,1/11/2022,Released,North Carolina Puppy Raising Region,False
+875,Una,3UU20,Female,LR,B,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,10/18/2021,Released,Eastern MA Puppy Raising Region,False
+876,Ubanks,7UU20,Male,LR,Y,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,6/30/2022,Released,North Carolina Puppy Raising Region,False
+877,Utica,8UU20,Female,LR,B,11/10/2020,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,6/29/2022,In Training,Dutchess NY Puppy Raising Region,False
+878,Tigger,1TT20,Male,LR,Y,11/1/2020,Dallas - 6D415 - LRYF,Yarmouth - 2YY18 - LRYM,6/29/2022,In Training,Southern Tier NY Puppy Raising Region,False
+880,Sadie,2SS20,Female,LR,B,11/1/2020,Edna - S - 1EE17 - LRBF,Henry - S - 1H18 - LRYM,5/17/2022,In Training,Columbus Puppy Raising Region,False
+881,Sputnik,1SS20,Male,LR,Y,11/1/2020,Edna - S - 1EE17 - LRBF,Henry - S - 1H18 - LRYM,9/13/2022,Released,Maine Puppy Raising Region,False
+882,Reggae,8RR20,Male,LR,B,10/28/2020,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,8/5/2022,In Training,Richmond Puppy Raising Region,False
+883,Reese,1RR20,Female,LR,Y,10/28/2020,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,6/14/2022,In Training,Southern Tier NY Puppy Raising Region,False
+884,Randy,2RR20,Male,LR,B,10/28/2020,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,7/19/2022,In Training,Southern Tier NY Puppy Raising Region,False
+885,Redford,3RR20,Male,LR,Y,10/28/2020,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,3/15/2022,Released,Richmond Puppy Raising Region,False
+886,Runner (Colden),5RR20,Male,LR,B,10/28/2020,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,10/28/2020,Released,,False
+887,Russell (Lucas),4RR20,Male,LR,B,10/28/2020,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,12/23/2020,Released,,False
+890,Peyton,1PP20,Male,LR,Y,10/9/2020,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,12/2/2020,Released,,False
+891,Peanut,2PP20,Female,LR,Y,10/9/2020,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,4/4/2022,Released,Columbus Puppy Raising Region,False
+892,Presley,3PP20,Male,LR,Y,10/9/2020,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,7/19/2022,In Training,Bay Puppy Raising Region,False
+893,Pawling,4PP20,Male,LR,B,10/9/2020,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,6/29/2022,In Training,Bay Puppy Raising Region,False
+894,Olive,1OO20,Female,LR,B,10/7/2020,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,7/19/2022,In Training,Dominion Puppy Raising Region,False
+895,Oakley,2OO20,Male,LR,B,10/7/2020,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,6/14/2022,In Training,Dominion Puppy Raising Region,False
+896,Ortega,4OO20,Male,LR,B,10/7/2020,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,5/17/2022,In Training,Westchester County Puppy Raising  Region,False
+897,Olana,5OO20,Female,LR,B,10/7/2020,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,7/19/2022,In Training,Dominion Puppy Raising Region,False
+898,Opie,6OO20,Male,LR,B,10/7/2020,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,5/17/2022,In Training,Westchester County Puppy Raising  Region,False
+899,Otis (Skipper),7OO20,Male,LR,B,10/7/2020,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,12/18/2020,Other School,,True
+900,Nixie,2NN20,Female,LR,B,9/5/2020,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,9/13/2022,Graduated,Westchester County Puppy Raising Region,True
+901,Nacho,1NN20,Male,LR,B,9/5/2020,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,10/12/2021,Released,Rhode Island Puppy Raising Region,False
+902,Maeve,4MM20,Female,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,5/17/2022,In Training,Cleveland East Puppy Raising Region,False
+903,Neptune,5NN20,Male,LR,B,9/5/2020,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,6/14/2022,In Training,Catoctin Puppy Raising Region,False
+904,Mission,11MM20,Male,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,11/3/2020,Released,,False
+905,Miles,2MM20,Male,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,6/14/2022,In Training,Dominion Puppy Raising Region,False
+906,Martha,3MM20,Female,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,7/19/2022,In Training,Wayne County Puppy Raising Region,False
+907,Marcie (Violet Noni),8MM20,Female,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,11/3/2020,Released,,False
+908,Missy,1MM20,Female,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,5/17/2022,In Training,Columbus Puppy Raising Region,False
+909,Norm,4NN20,Male,LR,B,9/5/2020,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,6/23/2022,In Training,Catoctin Puppy Raising Region,False
+910,Minnie,7MM20,Female,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,6/29/2022,In Training,Montgomery Puppy Raising Region,False
+911,Michael,6MM20,Male,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,6/14/2022,In Training,Rhode Island Puppy Raising Region,False
+912,Maggie,10MM20,Female,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,6/29/2022,In Training,Delmarva Puppy Raising Region,False
+913,Murphy,5MM20,Male,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,8/18/2022,Released,Wayne County Puppy Raising Region,False
+914,Marvin,9MM20,Male,LR,B,9/5/2020,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,7/19/2022,In Training,Montgomery Puppy Raising Region,False
+915,Larson,2LL20,Male,LR,Y,5/17/2020,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,1/11/2022,In Training,Montgomery Puppy Raising Region,False
+916,Lemon,5LL20,Female,LR,Y,5/17/2020,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,5/23/2022,In Training,Dominion Puppy Raising Region,False
+917,Lester,1LL20,Male,LR,B,5/17/2020,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,6/28/2020,Released,,False
+918,Lowell,3LL20,Male,LR,B,5/17/2020,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,5/3/2022,Graduated,Dominion Puppy Raising Region,True
+919,Lyric,4LL20,Female,LR,Y,5/17/2020,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,4/13/2022,Released,Eastern MA Puppy Raising Region,False
+920,Kiwi,5KK20,Female,LR,B,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,5/17/2022,In Training,Bay Puppy Raising Region,False
+921,Koala,6KK20,Female,LR,B,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,6/14/2022,In Training,Rhode Island Puppy Raising Region,False
+922,Kermit,7KK20,Male,LR,B,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,4/12/2022,In Training,Baltimore Puppy Raising Region,False
+923,Toby,1KK20,Female,LR,B,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,6/14/2022,In Training,Baltimore Puppy Raising Region,False
+924,Kirby,2KK20,Male,LR,Y,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,1/13/2022,Released,Dutchess NY Puppy Raising Region,False
+925,Karma,3KK20,Female,LR,B,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,6/14/2022,In Training,Bay Puppy Raising Region,False
+926,Kurt,4KK20,Male,LR,Y,5/12/2020,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,6/14/2022,In Training,Baltimore Puppy Raising Region,False
+928,Jake,4JJ20,Male,LR,Y,5/10/2020,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,5/17/2022,In Training,Fingerlakes Puppy Raising Region,False
+929,Journey,5JJ20,Female,LR,Y,5/10/2020,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,6/14/2022,In Training,Montgomery Puppy Raising Region,False
+931,Julie,7JJ20,Female,LR,Y,5/10/2020,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,1/11/2022,In Training,Montgomery Puppy Raising Region,False
+932,Jim (Bruce),8JJ20,Male,LR,Y,5/10/2020,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,6/24/2020,Released,,False
+933,Irwin,7II20,Male,LR,B,5/4/2020,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,5/17/2022,In Training,Colorado Puppy Raising Region,False
+935,Iris,1II20,Female,LR,B,5/4/2020,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,5/17/2022,In Training,Fingerlakes Puppy Raising Region,False
+936,Indigo,2II20,Female,LR,B,5/4/2020,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,10/29/2021,Released,Bay Puppy Raising Region,False
+937,Igloo,3II20,Female,LR,Y,5/4/2020,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,5/17/2022,In Training,Capital NY Puppy Raising Region,False
+938,Irma,4II20,Female,LR,Y,5/4/2020,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,7/27/2022,Released,Dominion Puppy Raising Region,False
+939,Imari,5II20,Female,LR,B,5/4/2020,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,6/19/2020,Released,,False
+942,Hobie,1HH20,Male,GS,B&T,5/3/2020,Shea - 5SS18 - GSBF,Cappy - S - 2C315 - GSB&TM,3/18/2022,Graduated,Central NY Puppy Raising Region,True
+943,Hedwig,2HH20,Female,GS,B,5/3/2020,Shea - 5SS18 - GSBF,Cappy - S - 2C315 - GSB&TM,6/18/2022,Graduated,Central NY Puppy Raising Region,True
+944,Hagrid,3HH20,Male,GS,B,5/3/2020,Shea - 5SS18 - GSBF,Cappy - S - 2C315 - GSB&TM,7/13/2021,Released,Cleveland West Puppy Raising Region,False
+945,Gil,1GG20,Male,LR,B,4/28/2020,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,1/4/2021,Released,Orange County Puppy Raising Region,False
+946,Gus,2GG20,Male,LR,B,4/28/2020,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,6/11/2020,Released,,False
+947,Goodman,4GG20,Male,LR,B,4/28/2020,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,4/26/2022,In Training,Eastern MA Puppy Raising Region,False
+948,Gabriel,5GG20,Male,LR,B,4/28/2020,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,4/12/2022,In Training,Southwestern VT Puppy Raising Region,False
+949,Gracie,6GG20,Female,LR,B,4/28/2020,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,7/5/2022,Released,Eastern CT Puppy Raising Region,False
+950,Gingham,7GG20,Female,LR,B,4/28/2020,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,7/20/2022,Released,Southwestern VT Puppy Raising Region,False
+951,FaunaxHarris 1F,1001259,Female,GS,B&T,4/27/2020,Fauna FGDF F28-6F - FAUNA - GSSABLF *NOP*,Harris - 1H414 - GSB&TM,6/3/2020,Other School,,True
+953,FaunaxHarris 3M,3001259,Male,GS,B&T,4/27/2020,Fauna FGDF F28-6F - FAUNA - GSSABLF *NOP*,Harris - 1H414 - GSB&TM,6/3/2020,Other School,,True
+954,Fantasia,1FF20,Female,LR,Y,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,6/15/2022,Graduated,Rhode Island Puppy Raising Region,True
+955,Fatima,2FF20,Female,LR,Y,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,10/5/2021,Released,North Carolina Puppy Raising Region,False
+956,Fairfax (Simon),3FF20,Male,LR,B,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,6/7/2020,Released,,False
+957,Faustina,4FF20,Female,LR,Y,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,7/13/2021,Released,Fingerlakes Puppy Raising Region,False
+958,Fender,5FF20,Male,LR,B,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,1/24/2022,Released,Cleveland West Puppy Raising Region,False
+959,Ferrari,6FF20,Male,LR,B,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,3/15/2022,In Training,Maine Puppy Raising Region,False
+960,Francisco,7FF20,Male,LR,Y,4/24/2020,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,7/7/2022,In Training,Capital NY Puppy Raising Region,False
+961,Eva,5EE20,Female,LR,B,4/21/2020,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,4/12/2022,In Training,Maine Puppy Raising Region,False
+962,Emerson,6EE20,Male,LR,B,4/21/2020,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,5/17/2022,In Training,Eastern CT Puppy Raising Region,False
+963,Ernie,1EE20,Male,LR,B,4/21/2020,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,4/13/2022,Released,Capital NY Puppy Raising Region,False
+964,Elvis,2EE20,Male,LR,B,4/21/2020,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,5/17/2022,In Training,Central NY Puppy Raising Region,False
+965,Eileen,3EE20,Female,LR,B,4/21/2020,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,9/29/2021,Released,Central NY Puppy Raising Region,False
+969,Durango,2DD20,Male,LR,Y,4/12/2020,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,7/26/2021,Released,Rhode Island Puppy Raising Region,False
+970,Dahlia,3DD20,Female,LR,Y,4/12/2020,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,4/12/2022,In Training,SWCT Puppy Raising Region,False
+971,Dennis,6DD20,Male,LR,B,4/12/2020,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,4/12/2022,In Training,Catoctin Puppy Raising Region,False
+972,Dante (Archie),7DD20,Male,LR,B,4/12/2020,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,5/26/2020,Released,,False
+973,Dora,4DD20,Female,LR,B,4/12/2020,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,5/17/2022,In Training,Catoctin Puppy Raising Region,False
+974,Derek,5DD20,Male,LR,B,4/12/2020,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,5/7/2022,Graduated,Baltimore Puppy Raising Region,True
+975,Gemma,2CC20,Female,LR,Y,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,3/2/2022,Released,Richmond Puppy Raising Region,False
+976,Collin,5CC20,Female,LR,Y,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,4/12/2022,In Training,Eastern CT Puppy Raising Region,False
+977,Chai,6CC20,Female,LR,Y,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,6/16/2022,Released,Eastern CT Puppy Raising Region,False
+978,Citron (Olive),3CC20,Female,LR,Y,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,11/10/2021,Released,Rhode Island Puppy Raising Region,False
+979,Crew,4CC20,Male,LR,Y,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,5/6/2022,In Training,Prince William Puppy Raising Region,False
+980,Curry,7CC20,Female,LR,Y,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,7/28/2021,Released,Dominion Puppy Raising Region,False
+981,Cardamon (Keli),8CC20,Female,LR,B,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,5/27/2020,Released,,False
+982,Claire (Bailey),9CC20,Female,LR,B,4/9/2020,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,5/27/2020,Released,,False
+983,Bishop,2BB20,Male,LR,B,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,5/14/2020,Released,,False
+984,Brahms,3BB20,Male,LR,Y,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,3/2/2022,Released,Baltimore Puppy Raising Region,False
+985,Bedford (Wilbur),6BB20,Male,LR,B,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,5/14/2020,Released,,False
+986,Biscotti,7BB20,Female,LR,Y,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,3/15/2022,In Training,Prince William Puppy Raising Region,False
+987,Basil,8BB20,Female,LR,B,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,8/19/2022,Released,Cleveland West Puppy Raising Region,False
+988,Luke,11BB20,Male,LR,B,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,4/12/2022,In Training,Capital NY Puppy Raising Region,False
+989,Ballou,4BB20,Male,LR,Y,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,4/12/2022,In Training,Adirondack Puppy Raising Region,False
+990,Bart,5BB20,Male,LR,B,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,4/12/2022,In Training,Adirondack Puppy Raising Region,False
+991,Bettina,9BB20,Female,LR,Y,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,8/31/2021,Released,Columbus Puppy Raising Region,False
+992,Brava,10BB20,Female,LR,B,4/1/2020,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,3/15/2022,In Training,Capital NY Puppy Raising Region,False
+993,Abigail,2AA20,Female,LR,Y,3/27/2020,Oats - 7OO17 - LRBF,Coaster - 2C317 - LRYM,11/29/2021,Released,Prince William Puppy Raising Region,False
+994,Allison,3AA20,Female,LR,B,3/27/2020,Oats - 7OO17 - LRBF,Coaster - 2C317 - LRYM,4/14/2022,Released,Capital NY Puppy Raising Region,False
+995,Addie,4AA20,Female,LR,Y,3/27/2020,Oats - 7OO17 - LRBF,Coaster - 2C317 - LRYM,7/7/2022,Released,Leatherstocking NY Puppy Raising Region,False
+996,Yamaha,3Y20,Male,LR,Y,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,5/27/2020,Other School,,True
+997,Yahtzee,4Y20,Female,LR,B,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,8/3/2022,Released,Cleveland East Puppy Raising Region,False
+998,Yodel,5Y20,Female,LR,B,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,10/14/2021,Released,Columbus Puppy Raising Region,False
+999,Yvonne (Piper Can Do),1Y20,Female,LR,B,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,5/27/2020,Other School,,True
+1000,York,2Y20,Male,LR,B,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,5/27/2020,Other School,,True
+1001,Yonkers,6Y20,Male,LR,B,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,4/12/2022,In Training,Cleveland West Puppy Raising Region,False
+1002,Yacht,7Y20,Male,LR,Y,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,4/12/2022,In Training,Fingerlakes Puppy Raising Region,False
+1003,Yoda,8Y20,Male,LR,Y,3/24/2020,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,5/27/2020,Other School,,True
+1004,Winona (A-Gypsy),1W20,Female,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF - GSB&TM *NOP*,5/4/2020,Other School,,True
+1005,Wendy,2W20,Female,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF - GSB&TM *NOP*,1/15/2022,Graduated,Westchester County Puppy Raising Region,True
+1006,Winnie,6W20,Female,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF - GSB&TM *NOP*,8/23/2021,Released,Bay Puppy Raising Region,False
+1007,Whim,7W20,Female,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF - GSB&TM *NOP*,3/21/2022,Released,Wayne County Puppy Raising Region,False
+1008,Whistler (Chief),3W20,Male,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF - GSB&TM *NOP*,3/8/2022,Released,Fingerlakes Puppy Raising Region,False
+1009,Ward,4W20,Male,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF - GSB&TM *NOP*,3/22/2022,Released,Richmond Puppy Raising Region,False
+1010,Wally,5W20,Male,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF -GSB&TM *NOP*,11/23/2021,Released,Shenandoah Puppy Raising Region,False
+1011,Whitney,8W20,Female,GS,B&T,3/18/2020,Luna - 3L316 - GSBF,Indy FGDF I28-5M - INDY FGDF -GSB&TM *NOP*,5/26/2021,Released,Wayne County Puppy Raising Region,False
+1012,Vixen,1V20,Female,LR,Y,3/16/2020,Kyra - 5KK18 - LRBF,Yarmouth - 2YY18 - LRYM,12/16/2021,Released,Cleveland East Puppy Raising Region,False
+1013,Vince,2V20,Male,LR,Y,3/16/2020,Kyra - 5KK18 - LRBF,Yarmouth - 2YY18 - LRYM,4/18/2022,Released,Adirondack Puppy Raising Region,False
+1014,Ursula,4U20,Female,LR,B,3/15/2020,Oriole - 9O316 - LRYF,Kaplan - 1KK16 - LRBM,8/16/2022,Graduated,Cleveland West Puppy Raising Region,True
+1015,Louis,1U20,Male,LR,Y,3/15/2020,Oriole - 9O316 - LRYF,Kaplan - 1KK16 - LRBM,4/12/2022,In Training,Shenandoah Puppy Raising Region,False
+1016,Umberto (Luca),2U20,Male,LR,Y,3/15/2020,Oriole - 9O316 - LRYF,Kaplan - 1KK16 - LRBM,4/29/2020,Released,,False
+1017,Ulysses,3U20,Male,LR,Y,3/15/2020,Oriole - 9O316 - LRYF,Kaplan - 1KK16 - LRBM,9/13/2022,Graduated,Dutchess NY Puppy Raising Region,True
+1019,Tahoe (Sully),1T20,Male,LR,Y,3/11/2020,Leah - 3LL17 - LRYF,Tito - 2T18 - LRBM,4/23/2020,Released,,False
+1020,Toby,4T20,Female,LR,B,3/11/2020,Leah - 3LL17 - LRYF,Tito - 2T18 - LRBM,4/23/2020,Released,,False
+1021,Rooney,9R20,Male,LR,Y,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,9/1/2022,Graduated,Monroe NY Puppy Raising Region,True
+1022,Richie,1R20,Male,LR,Y,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,9/8/2020,Released,Erie NY Puppy Raising Region,False
+1023,Ruby,2R20,Female,LR,B,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,4/23/2020,Released,,False
+1025,Reese,4R20,Male,LR,Y,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,4/23/2020,Released,,False
+1026,Rhyme,5R20,Female,LR,Y,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,5/11/2022,Released,Columbus Puppy Raising Region,False
+1027,Rosemary,6R20,Female,LR,Y,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,7/23/2021,Released,Lower Westchester Puppy Raising Region,False
+1029,Roswell,8R20,Female,LR,B,3/7/2020,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,3/15/2022,In Training,Erie NY Puppy Raising Region,False
+1030,Sunshine,3S20,Female,LR,Y,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,1/4/2022,Released,Fingerlakes Puppy Raising Region,False
+1031,Sparky (Ricky 2040),4S20,Male,LR,B,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,11/18/2021,Other School,,True
+1032,Sandy (Petry),5S20,Female,LR,Y,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,1/12/2022,Other School,,True
+1033,Seth,9S20,Male,LR,B,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,8/5/2021,Released,Rhode Island Puppy Raising Region,False
+1034,Sassy,10S20,Female,LR,B,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,6/18/2022,Graduated,New Hampshire Puppy Raising Region,True
+1035,Shamrock,2S20,Female,LR,B,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,3/15/2022,In Training,Fingerlakes Puppy Raising Region,False
+1036,Sven (Pally 2039),1S20,Male,LR,Y,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,4/14/2021,Other School,,True
+1037,Solomon (Loki VI),6S20,Male,LR,B,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,1/12/2022,Other School,,True
+1038,Sharon,7S20,Female,LR,Y,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,2/15/2022,In Training,Eastern MA Puppy Raising Region,False
+1039,Sabrina (Charity 2041),8S20,Female,LR,B,3/5/2020,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,7/23/2021,Other School,,True
+1040,Eli FGDF,ELI FGDF,Male,GS,SABL,3/2/2020,FIONA FGDF - FIONA - GSBF *NOP*,Kayden FGDF K28- - KAYDEN - GSSABLM *NOP*,7/29/2022,Other School,,True
+1041,Petra (Maggie),1P20,Female,GS,B&T,3/2/2020,Jenny - 1JJ18 - GSB&TF,Chase - 6C315 - GSB&TM,4/17/2020,Released,,False
+1042,Pilot,2P20,Male,GS,B&T,3/2/2020,Jenny - 1JJ18 - GSB&TF,Chase - 6C315 - GSB&TM,2/14/2022,Graduated,Northern CT Puppy Raising Region,True
+1043,Pride,3P20,Female,GS,B&T,3/2/2020,Jenny - 1JJ18 - GSB&TF,Chase - 6C315 - GSB&TM,6/4/2022,Graduated,Cleveland West Puppy Raising Region,True
+1044,Omega,4O20,Female,LR,Y,3/1/2020,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,2/15/2022,In Training,Eastern MA Puppy Raising Region,False
+1045,Ola,5O20,Female,LR,B,3/1/2020,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,4/13/2020,Released,,False
+1046,Opie (Sonny),6O20,Male,LR,Y,3/1/2020,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,4/13/2020,Released,,False
+1047,Orion,1O20,Female,LR,B,3/1/2020,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,12/14/2020,Released,Monroe NY Puppy Raising Region,False
+1048,Oscar,3O20,Male,LR,B,3/1/2020,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,3/26/2022,In Training,Maine Puppy Raising Region,False
+1049,Oahu (Acadia),2O20,Female,LR,Y,3/1/2020,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,4/13/2020,Released,,False
+1050,Dani (Diya) FGDF D29-4F,1N01269,Female,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1051,Dax FGDF D29-6M,3N01269,Male,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1052,Daphne FGDF D29-8F,2N01269,Female,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1053,Dindi FGDF D29-3F,6N01269,Female,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1054,Doc FGDF D29-7M,8N01269,Male,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1055,Denise FGDF D29-2F,4N01269,Female,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1056,Dexter FGDF D29-1M,5N01269,Male,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1057,Dior FGDF D29-5F,7N01269,Female,GS,B&T,2/25/2020,Yahtzee FGDF - YAHTZEE - GSBF *NOP*,Chase - 6C315 - GSB&TM,9/8/2022,Other School,,True
+1058,Noah,3N20,Male,LR,B,2/19/2020,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,3/15/2022,In Training,Cleveland West Puppy Raising Region,False
+1059,Nita,2N20,Female,LR,Y,2/19/2020,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,6/30/2022,In Training,Monroe NY Puppy Raising Region,False
+1060,Nanette (Layla),4N20,Female,LR,B,2/19/2020,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,4/2/2020,Released,,False
+1061,Newport,5N20,Male,LR,B,2/19/2020,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,4/2/2020,Released,,False
+1062,Neutron (Henry),6N20,Male,LR,Y,2/19/2020,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,4/2/2020,Released,,False
+1063,Nyssa,1N20,Female,LR,B,2/19/2020,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,3/15/2022,In Training,Central CT Puppy Raising Region,False
+1065,Moana (Maddie),3M20,Female,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,3/24/2020,Released,,False
+1066,Molly,4M20,Female,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,6/30/2021,Released,Westchester County Puppy Raising Region,False
+1067,Montana,5M20,Male,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,3/15/2022,In Training,Montgomery Puppy Raising Region,False
+1068,Marc,6M20,Male,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,5/26/2022,Released,Richmond Puppy Raising Region,False
+1069,Maguire (Charlie),1M20,Male,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,3/24/2020,Released,,False
+1070,Macrae (Owen),2M20,Male,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,3/24/2020,Released,,False
+1071,Maximus,8M20,Male,LR,Y,2/9/2020,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,4/8/2022,Released,Capital NY Puppy Raising Region,False
+1072,London,1L20,Female,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,4/25/2022,Released,Fingerlakes Puppy Raising Region,False
+1074,Lucille (Lucy),3L20,Female,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,3/23/2020,Released,,False
+1075,Lancelot,4L20,Male,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,7/25/2022,In Training,Columbus Puppy Raising Region,False
+1076,Lilac,5L20,Female,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,3/18/2022,Released,Maine Puppy Raising Region,False
+1077,Laura,6L20,Female,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,3/23/2020,Released,,False
+1078,Leilani,7L20,Female,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,2/15/2022,In Training,Fingerlakes Puppy Raising Region,False
+1079,Luau (Skye),8L20,Female,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,1/18/2022,Released,Dominion Puppy Raising Region,False
+1080,Laddie,10L20,Male,LR,Y,2/5/2020,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,7/14/2021,Released,Rhode Island Puppy Raising Region,False
+1081,Kathryn,4K20,Female,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,1/11/2022,In Training,SWCT Puppy Raising Region,False
+1082,Klondike (Wallace/Wally),1K20,Male,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,3/24/2020,Released,,False
+1083,Kelsey,2K20,Female,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,8/10/2021,Released,Lower Westchester Puppy Raising Region,False
+1084,Kalina,3K20,Female,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,5/31/2022,Released,Cleveland East Puppy Raising Region,False
+1085,Kermit (Willie),5K20,Male,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,3/24/2020,Released,,False
+1086,Kettle,6K20,Female,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,9/21/2021,Released,Cleveland East Puppy Raising Region,False
+1087,Kerry,7K20,Female,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,10/18/2021,In Training,Maine Puppy Raising Region,False
+1088,Keenan,8K20,Male,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,1/18/2022,Released,North Carolina Puppy Raising Region,False
+1089,Knight,9K20,Male,LR,B,2/4/2020,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,5/14/2021,Released,Prince William Puppy Raising Region,False
+1090,Jason,1J20,Male,LR,B,1/29/2020,Terri - 3T18 - LRBF,Charlie - 10CC17 - LRYM,9/2/2022,Graduated,Montgomery Puppy Raising Region,True
+1092,Jaedah,3J20,Female,LR,Y,1/29/2020,Terri - 3T18 - LRBF,Charlie - 10CC17 - LRYM,5/18/2022,Graduated,Northern CT Puppy Raising Region,True
+1093,Jennings,5J20,Male,LR,B,1/29/2020,Terri - 3T18 - LRBF,Charlie - 10CC17 - LRYM,1/7/2021,Released,SWCT Puppy Raising Region,False
+1094,Jeremy (Cory),6J20,Male,LR,B,1/29/2020,Terri - 3T18 - LRBF,Charlie - 10CC17 - LRYM,3/24/2020,Released,,False
+1095,Gemma (Kyra),1I20,Female,LR,Y,1/26/2020,Oriana - 2O317 - LRYF,Kisco - 6KK18 - LRYM,3/21/2020,Released,,False
+1096,Izod,2I20,Male,LR,Y,1/26/2020,Oriana - 2O317 - LRYF,Kisco - 6KK18 - LRYM,4/25/2022,Released,New Hampshire Puppy Raising Region,False
+1097,Ivanna,3I20,Female,LR,Y,1/26/2020,Oriana - 2O317 - LRYF,Kisco - 6KK18 - LRYM,1/26/2022,Released,Northern CT Puppy Raising Region,False
+1098,Ilsa,4I20,Female,LR,Y,1/26/2020,Oriana - 2O317 - LRYF,Kisco - 6KK18 - LRYM,12/17/2021,Released,Maine Puppy Raising Region,False
+1099,Indiana (Grady),6I20,Male,LR,Y,1/26/2020,Oriana - 2O317 - LRYF,Kisco - 6KK18 - LRYM,3/21/2020,Released,,False
+1100,Harold,8H20,Male,LR,B,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,10/19/2021,Released,Cleveland East Puppy Raising Region,False
+1101,Hopi,9H20,Female,LR,B,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,1/4/2021,Released,Baltimore Puppy Raising Region,False
+1102,Hattie,1H20,Female,LR,B,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,7/19/2022,Released,Maine Puppy Raising Region,False
+1103,Happy,2H20,Female,LR,Y,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,1/11/2022,In Training,Montgomery Puppy Raising Region,False
+1104,Harmony,3H20,Female,LR,B,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,4/26/2022,In Training,Columbus Puppy Raising Region,False
+1105,Harrison,4H20,Male,LR,Y,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,3/19/2020,Released,,False
+1106,Hilton,5H20,Male,LR,Y,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,10/7/2021,Released,Maine Puppy Raising Region,False
+1107,Harbor,6H20,Female,LR,Y,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,5/9/2022,Released,Central NY Puppy Raising Region,False
+1108,Houston,7H20,Male,LR,Y,1/24/2020,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,3/19/2020,Released,,False
+1109,Griffin,2G20,Male,LR,Y,1/23/2020,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,10/18/2021,In Training,Delmarva Puppy Raising Region,False
+1111,Finnian,1F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,3/23/2022,Released,Montgomery Puppy Raising Region,False
+1112,Francis,2F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2/15/2022,In Training,New Hampshire Puppy Raising Region,False
+1113,Fallon,3F20,Female,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,3/2/2022,In Training,Cleveland East Puppy Raising Region,False
+1114,Fernando,4F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2/15/2022,In Training,Maine Puppy Raising Region,False
+1115,Felipe,6F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,3/22/2021,Released,Westchester County Puppy Raising Region,False
+1116,Fabian,7F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,3/19/2020,Released,,False
+1117,Farrell,8F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,3/19/2020,Released,,False
+1118,Ford,9F20,Male,LR,B,1/23/2020,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,3/19/2020,Released,,False
+1120,Graham (Basco),3G20,Male,LR,Y,1/23/2020,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,3/16/2020,Released,,False
+1121,Gabe,4G20,Male,LR,Y,1/23/2020,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,3/15/2022,In Training,Erie NY Puppy Raising Region,False
+1122,Gary (Buddy),5G20,Male,LR,Y,1/23/2020,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,3/16/2020,Released,,False
+1123,Gregg,6G20,Male,LR,Y,1/23/2020,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,2/15/2022,In Training,Bay Puppy Raising Region,False
+1125,Elana,2E+20,Female,LR,Y,1/12/2020,Yoshi - 1Y17 - LRYF,Oreo - 6O18 - LRBM,10/11/2021,Graduated,Northern CT Puppy Raising Region,True
+1126,Ellington,3E+20,Male,LR,Y,1/12/2020,Yoshi - 1Y17 - LRYF,Oreo - 6O18 - LRBM,9/9/2021,Released,Cleveland West Puppy Raising Region,False
+1127,Emmeline,5E+20,Female,LR,B,1/12/2020,Yoshi - 1Y17 - LRYF,Oreo - 6O18 - LRBM,2/15/2022,Released,Dominion Puppy Raising Region,False
+1128,Eleanor (Bunny),4E+20,Female,LR,B,1/12/2020,Yoshi - 1Y17 - LRYF,Oreo - 6O18 - LRBM,3/6/2020,Released,,False
+1129,Ellery,6E+20,Male,LR,B,1/12/2020,Yoshi - 1Y17 - LRYF,Oreo - 6O18 - LRBM,1/11/2022,Released,Prince William Puppy Raising Region,False
+1130,Ed,1E+20,Male,LR,B,1/12/2020,Yoshi - 1Y17 - LRYF,Oreo - 6O18 - LRBM,3/12/2020,Released,,False
+1131,Dyson (Bruce),1D20,Male,LR,B,1/10/2020,Maya - 4MM15 - LRBF,Edgar - 1E315 - LRBM,3/5/2020,Released,,False
+1132,Denali,2D20,Male,LR,Y,1/10/2020,Maya - 4MM15 - LRBF,Edgar - 1E315 - LRBM,2/15/2022,In Training,Richmond Puppy Raising Region,False
+1134,Drake,3D20,Male,LR,B,1/10/2020,Maya - 4MM15 - LRBF,Edgar - 1E315 - LRBM,4/22/2022,Graduated,Bay Puppy Raising Region,True
+1135,Deacon,6D20,Male,LR,B,1/10/2020,Maya - 4MM15 - LRBF,Edgar - 1E315 - LRBM,3/5/2020,Released,,False
+1136,Clara PBB,CLARA PBB,Female,LR,B,1/9/2020,,,5/6/2021,Other School,,True
+1137,Cady,1C20,Female,LR,Y,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,4/5/2022,Released,Wayne County Puppy Raising Region,False
+1138,Carmen (Nala),2C20,Female,LR,B,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,1/24/2022,Released,Dominion Puppy Raising Region,False
+1139,Coach,4C20,Male,LR,Y,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,6/18/2022,Graduated,Cleveland East Puppy Raising Region,True
+1140,Chloe,3C20,Female,LR,Y,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,3/4/2020,Released,,False
+1141,Cici,5C20,Female,LR,Y,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,5/11/2021,Released,Lower Westchester Puppy Raising Region,False
+1142,Clint,7C20,Male,LR,B,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,5/3/2022,Released,Maine Puppy Raising Region,False
+1143,Clara,8C20,Female,LR,B,1/8/2020,Wheat - 8W317 - LRBF,Zinc - 8ZZ17 - LRYM,3/23/2022,Released,Cattaraugus Puppy Raising Region,False
+1144,Bocci,1B20,Male,LR,Y,1/7/2020,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,3/16/2022,Released,Westchester County Puppy Raising Region,False
+1145,Branson,2B20,Male,LR,B,1/7/2020,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,3/4/2020,Released,,False
+1148,Brittany,7B20,Female,LR,Y,1/7/2020,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,3/3/2020,Released,,False
+1149,Bramble,8B20,Male,LR,Y,1/7/2020,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,2/22/2022,Released,Prince William Puppy Raising Region,False
+1150,Buddy,9B20,Male,LR,B,1/7/2020,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,2/15/2022,In Training,Cleveland West Puppy Raising Region,False
+1151,Barney,10B20,Male,LR,Y,1/7/2020,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,5/27/2021,Released,Dominion Puppy Raising Region,False
+1152,Amos (Noche),1A20,Male,LR,B,1/6/2020,Wanda - S - 2WW15 - LRBF,Joe - 4JJ13 - LRBM,3/4/2020,Released,,False
+1153,Andy,2A20,Male,LR,B,1/6/2020,Wanda - S - 2WW15 - LRBF,Joe - 4JJ13 - LRBM,6/13/2022,Released,Eastern MA Puppy Raising Region,False
