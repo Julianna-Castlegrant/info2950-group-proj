@@ -458,6 +458,7 @@
 690,Rockford,5R21,Male,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising,Central NY Puppy Raising Region
 691,Rossi,1R21,Male,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising,Wayne County Puppy Raising Region
 692,Roman,6R21,Male,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising,Southern CT Puppy Raising region
+693,Quinn,1Q21,Male,LR,B,2021-05-20,Aloe - 5A17 - LRYF,Elrod - 6E319 - LRBM,2022-08-16,In Training,Adirondack Puppy Raising Region
 694,Poppy,6P21,Female,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-10,Puppy Raising,Columbus Puppy Raising Region
 695,Posy,7P21,Female,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-10,Puppy Raising,SWCT Puppy Raising Region
 696,Peony,3P21,Female,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-09,Puppy Raising,Richmond Puppy Raising Region
@@ -493,9 +494,146 @@
 742,Ida,6I21,Female,LR,B,2021-04-09,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,2021-06-16,Puppy Raising,Catoctin Puppy Raising Region
 743,Hickory,1H21,Male,LR,Y,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2021-06-05,Puppy Raising,New Hampshire Puppy Raising Region
 744,Hannah,4H21,Female,LR,B,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2021-06-06,Puppy Raising,Columbus Puppy Raising Region
+747,Holly,5H21,Female,LR,B,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2022-07-19,In Training,Columbus Puppy Raising Region
+749,Felix,3F21,Male,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-08-16,In Training,Dominion Puppy Raising Region
+750,Fritz,4F21,Male,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-08-31,In Training,New Hampshire Puppy Raising Region
 752,Flash,6F21,Male,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2021-05-27,Puppy Raising,Baltimore Puppy Raising Region
+753,Fame,7F21,Female,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-08-31,In Training,Region
 754,Grayson,1G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2021-06-10,Puppy Raising,Central NY Puppy Raising Region
 755,Gibbs,2G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2021-06-05,Puppy Raising,Colorado Puppy Raising Region
 756,Gatsby,3G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2021-06-05,Puppy Raising,New Hampshire Puppy Raising Region
 759,Gideon,4G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2021-06-05,Puppy Raising,Baltimore Puppy Raising Region
+760,Gemini,7G21,Female,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training,New Hampshire Puppy Raising Region
 762,Grover,9G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2021-06-05,Puppy Raising,Richmond Puppy Raising Region
+767,Eden,5E+21,Female,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-03,In Training,Bay Puppy Raising Region
+768,Epcot,6E+21,Male,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-03,In Training,Bay Puppy Raising Region
+769,Enya,4E+21,Female,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-31,In Training,Dominion Puppy Raising Region
+770,Eve,7E+21,Female,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-16,In Training,Northern CT Puppy Raising Region
+772,Dan,1D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-07-07,In Training,Orange County Puppy Raising Region
+774,Kozy,3D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-06-29,In Training,Northern NJ Puppy Raising Region
+776,Kemp,5D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-08-16,In Training,Southern CT Puppy Raising region
+777,Douglas,7D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-07-19,In Training,Central NY Puppy Raising Region
+779,Diego,9D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-08-31,In Training,Southern CT Puppy Raising region
+780,Josephine,5C21,Female,LR,B,2021-01-11,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,2022-06-29,In Training,Eastern MA Puppy Raising Region
+781,Sully,1C21,Male,LR,B,2021-01-11,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,2022-08-31,In Training,Central NY Puppy Raising Region
+782,Liberty,3C21,Female,LR,B,2021-01-11,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,2022-07-19,In Training,SWCT Puppy Raising Region
+794,Amethyst,1A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-08-16,In Training,Southern CT Puppy Raising region
+795,Ava,2A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-08-31,In Training,Eastern CT Puppy Raising Region
+796,Alice,3A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-08-31,In Training,Catoctin Puppy Raising Region
+797,Arlene,9A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-08-31,In Training,Eastern CT Puppy Raising Region
+800,Alfie2,5A21,Male,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-06-29,In Training,Eastern CT Puppy Raising Region
+802,Ann,8A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-05-17,In Training,Westchester County Puppy Raising Region
+804,Gus,2G320,Male,LR,Y,2020-12-27,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,2022-07-07,In Training,Delmarva Puppy Raising Region
+807,Greeley,10G320,Female,LR,B,2020-12-27,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,2022-08-16,In Training,Eastern CT Puppy Raising Region
+808,Graham,9G320,Male,LR,B,2020-12-27,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,2022-05-24,In Training,Bay Puppy Raising Region
+811,Fairlee,1F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-16,In Training,Delmarva Puppy Raising Region
+812,Flower,2F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training,Leatherstocking NY Puppy Raising Region
+813,Florie,4F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-07-28,In Training,Central CT Puppy Raising Region
+814,Fay,6F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training,Southern CT Puppy Raising region
+815,Fulton,7F320,Male,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training,Delmarva Puppy Raising Region
+819,Elijah,6E320,Male,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training,Leatherstocking NY Puppy Raising Region
+820,Ensign,7E320,Male,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training,Bay Puppy Raising Region
+822,Eleanor,1E320,Female,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training,Leatherstocking NY Puppy RaisingRegion
+824,Emmylou,3E320,Female,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training,Central NY Puppy Raising Region
+825,Epic,4E320,Male,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-05-17,In Training,Richmond Puppy Raising Region
+833,Charlene,4C320,Female,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-16,In Training,Cleveland East Puppy Raising Region
+836,Cayenne,8C320,Female,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-16,In Training,Cleveland East Puppy Raising Region
+837,Chevy,2C320,Male,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-31,In Training,Columbus Puppy Raising Region
+839,Catalina,1C320,Female,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-31,In Training,Cleveland East Puppy Raising Region
+841,Breezy,2B320,Female,LR,B,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-08-16,In Training,Southern Tier NY Puppy Raising Region
+842,Bryce,5B320,Male,LR,Y,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-07-19,In Training,Cattaraugus Puppy Raising Region
+845,Bella,4B320,Female,LR,Y,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-06-29,In Training,Southwestern VT Puppy Raising Region
+846,Barbara,8B320,Female,LR,Y,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-06-29,In Training,Monroe NY Puppy Raising Region
+848,Admiral,3A320,Male,LR,B,2020-12-04,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,2022-05-06,In Training,Southwestern VT Puppy Raising Region
+849,Acadia,4A320,Female,LR,B,2020-12-04,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,2022-07-19,In Training,Monroe NY Puppy Raising Region
+853,Yardley,2YY20,Female,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-07-19,In Training,Capital NY Puppy Raising Region
+855,Yamaha,5YY20,Male,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-07-19,In Training,Adirondack Puppy Raising Region
+856,York,7YY20,Male,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-07-08,In Training,Erie NY Puppy Raising Region
+858,Yoda,9YY20,Male,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-09-08,In Training,Capital NY Puppy Raising Region
+859,Winfrey,1WW20,Female,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-08-16,In Training,Southwestern VT Puppy Raising Region
+860,Wilder,5WW20,Female,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-07-19,In Training,Capital NY Puppy Raising Region
+861,Weston,2WW20,Male,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-08-16,In Training,Adirondack Puppy Raising Region
+862,Winona,3WW20,Female,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-06-29,In Training,Eastern MA Puppy Raising Region
+866,Vista,3VV20,Female,LR,Y,2020-11-10,Bianca - P - 5B317 - LRYF,Capone - 4C318 - LRBM,2022-05-17,In Training,North Carolina Puppy Raising Region
+869,Umpire,4UU20,Male,LR,Y,2020-11-10,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,2022-06-14,In Training,Central NY Puppy Raising Region
+873,Uber,9UU20,Male,LR,Y,2020-11-10,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,2022-06-29,In Training,Richmond Puppy Raising Region
+877,Utica,8UU20,Female,LR,B,2020-11-10,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,2022-06-29,In Training,Dutchess NY Puppy Raising Region
+878,Tigger,1TT20,Male,LR,Y,2020-11-01,Dallas - 6D415 - LRYF,Yarmouth - 2YY18 - LRYM,2022-06-29,In Training,Southern Tier NY Puppy Raising Region
+880,Sadie,2SS20,Female,LR,B,2020-11-01,Edna - S - 1EE17 - LRBF,Henry - S - 1H18 - LRYM,2022-05-17,In Training,Columbus Puppy Raising Region
+882,Reggae,8RR20,Male,LR,B,2020-10-28,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,2022-08-05,In Training,Richmond Puppy Raising Region
+883,Reese,1RR20,Female,LR,Y,2020-10-28,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,2022-06-14,In Training,Southern Tier NY Puppy Raising Region
+884,Randy,2RR20,Male,LR,B,2020-10-28,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,2022-07-19,In Training,Southern Tier NY Puppy Raising Region
+892,Presley,3PP20,Male,LR,Y,2020-10-09,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,2022-07-19,In Training,Bay Puppy Raising Region
+893,Pawling,4PP20,Male,LR,B,2020-10-09,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,2022-06-29,In Training,Bay Puppy Raising Region
+894,Olive,1OO20,Female,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-07-19,In Training,Dominion Puppy Raising Region
+895,Oakley,2OO20,Male,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-06-14,In Training,Dominion Puppy Raising Region
+896,Ortega,4OO20,Male,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-05-17,In Training,Westchester County Puppy Raising  Region
+897,Olana,5OO20,Female,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-07-19,In Training,Dominion Puppy Raising Region
+898,Opie,6OO20,Male,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-05-17,In Training,Westchester County Puppy Raising  Region
+902,Maeve,4MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-05-17,In Training,Cleveland East Puppy Raising Region
+903,Neptune,5NN20,Male,LR,B,2020-09-05,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,2022-06-14,In Training,Catoctin Puppy Raising Region
+905,Miles,2MM20,Male,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training,Dominion Puppy Raising Region
+906,Martha,3MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-07-19,In Training,Wayne County Puppy Raising Region
+908,Missy,1MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-05-17,In Training,Columbus Puppy Raising Region
+909,Norm,4NN20,Male,LR,B,2020-09-05,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,2022-06-23,In Training,Catoctin Puppy Raising Region
+910,Minnie,7MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training,Montgomery Puppy Raising Region
+911,Michael,6MM20,Male,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training,Rhode Island Puppy Raising Region
+912,Maggie,10MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training,Delmarva Puppy Raising Region
+914,Marvin,9MM20,Male,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-07-19,In Training,Montgomery Puppy Raising Region
+915,Larson,2LL20,Male,LR,Y,2020-05-17,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,2022-01-11,In Training,Montgomery Puppy Raising Region
+916,Lemon,5LL20,Female,LR,Y,2020-05-17,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,2022-05-23,In Training,Dominion Puppy Raising Region
+920,Kiwi,5KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-05-17,In Training,Bay Puppy Raising Region
+921,Koala,6KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training,Rhode Island Puppy Raising Region
+922,Kermit,7KK20,Male,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-04-12,In Training,Baltimore Puppy Raising Region
+923,Toby,1KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training,Baltimore Puppy Raising Region
+925,Karma,3KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training,Bay Puppy Raising Region
+926,Kurt,4KK20,Male,LR,Y,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training,Baltimore Puppy Raising Region
+928,Jake,4JJ20,Male,LR,Y,2020-05-10,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,2022-05-17,In Training,Fingerlakes Puppy Raising Region
+929,Journey,5JJ20,Female,LR,Y,2020-05-10,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,2022-06-14,In Training,Montgomery Puppy Raising Region
+931,Julie,7JJ20,Female,LR,Y,2020-05-10,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,2022-01-11,In Training,Montgomery Puppy Raising Region
+933,Irwin,7II20,Male,LR,B,2020-05-04,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,2022-05-17,In Training,Colorado Puppy Raising Region
+935,Iris,1II20,Female,LR,B,2020-05-04,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,2022-05-17,In Training,Fingerlakes Puppy Raising Region
+937,Igloo,3II20,Female,LR,Y,2020-05-04,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,2022-05-17,In Training,Capital NY Puppy Raising Region
+947,Goodman,4GG20,Male,LR,B,2020-04-28,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,2022-04-26,In Training,Eastern MA Puppy Raising Region
+948,Gabriel,5GG20,Male,LR,B,2020-04-28,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,2022-04-12,In Training,Southwestern VT Puppy Raising Region
+959,Ferrari,6FF20,Male,LR,B,2020-04-24,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,2022-03-15,In Training,Maine Puppy Raising Region
+960,Francisco,7FF20,Male,LR,Y,2020-04-24,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,2022-07-07,In Training,Capital NY Puppy Raising Region
+961,Eva,5EE20,Female,LR,B,2020-04-21,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,2022-04-12,In Training,Maine Puppy Raising Region
+962,Emerson,6EE20,Male,LR,B,2020-04-21,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,2022-05-17,In Training,Eastern CT Puppy Raising Region
+964,Elvis,2EE20,Male,LR,B,2020-04-21,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,2022-05-17,In Training,Central NY Puppy Raising Region
+970,Dahlia,3DD20,Female,LR,Y,2020-04-12,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,2022-04-12,In Training,SWCT Puppy Raising Region
+971,Dennis,6DD20,Male,LR,B,2020-04-12,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,2022-04-12,In Training,Catoctin Puppy Raising Region
+973,Dora,4DD20,Female,LR,B,2020-04-12,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,2022-05-17,In Training,Catoctin Puppy Raising Region
+976,Collin,5CC20,Female,LR,Y,2020-04-09,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,2022-04-12,In Training,Eastern CT Puppy Raising Region
+979,Crew,4CC20,Male,LR,Y,2020-04-09,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,2022-05-06,In Training,Prince William Puppy Raising Region
+986,Biscotti,7BB20,Female,LR,Y,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-03-15,In Training,Prince William Puppy Raising Region
+988,Luke,11BB20,Male,LR,B,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-04-12,In Training,Capital NY Puppy Raising Region
+989,Ballou,4BB20,Male,LR,Y,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-04-12,In Training,Adirondack Puppy Raising Region
+990,Bart,5BB20,Male,LR,B,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-04-12,In Training,Adirondack Puppy Raising Region
+992,Brava,10BB20,Female,LR,B,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-03-15,In Training,Capital NY Puppy Raising Region
+1001,Yonkers,6Y20,Male,LR,B,2020-03-24,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,2022-04-12,In Training,Cleveland West Puppy Raising Region
+1002,Yacht,7Y20,Male,LR,Y,2020-03-24,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,2022-04-12,In Training,Fingerlakes Puppy Raising Region
+1015,Louis,1U20,Male,LR,Y,2020-03-15,Oriole - 9O316 - LRYF,Kaplan - 1KK16 - LRBM,2022-04-12,In Training,Shenandoah Puppy Raising Region
+1029,Roswell,8R20,Female,LR,B,2020-03-07,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,2022-03-15,In Training,Erie NY Puppy Raising Region
+1035,Shamrock,2S20,Female,LR,B,2020-03-05,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,2022-03-15,In Training,Fingerlakes Puppy Raising Region
+1038,Sharon,7S20,Female,LR,Y,2020-03-05,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,2022-02-15,In Training,Eastern MA Puppy Raising Region
+1044,Omega,4O20,Female,LR,Y,2020-03-01,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,2022-02-15,In Training,Eastern MA Puppy Raising Region
+1048,Oscar,3O20,Male,LR,B,2020-03-01,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,2022-03-26,In Training,Maine Puppy Raising Region
+1058,Noah,3N20,Male,LR,B,2020-02-19,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,2022-03-15,In Training,Cleveland West Puppy Raising Region
+1059,Nita,2N20,Female,LR,Y,2020-02-19,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,2022-06-30,In Training,Monroe NY Puppy Raising Region
+1063,Nyssa,1N20,Female,LR,B,2020-02-19,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,2022-03-15,In Training,Central CT Puppy Raising Region
+1067,Montana,5M20,Male,LR,Y,2020-02-09,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,2022-03-15,In Training,Montgomery Puppy Raising Region
+1075,Lancelot,4L20,Male,LR,Y,2020-02-05,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,2022-07-25,In Training,Columbus Puppy Raising Region
+1078,Leilani,7L20,Female,LR,Y,2020-02-05,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,2022-02-15,In Training,Fingerlakes Puppy Raising Region
+1081,Kathryn,4K20,Female,LR,B,2020-02-04,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,2022-01-11,In Training,SWCT Puppy Raising Region
+1087,Kerry,7K20,Female,LR,B,2020-02-04,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,2021-10-18,In Training,Maine Puppy Raising Region
+1103,Happy,2H20,Female,LR,Y,2020-01-24,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,2022-01-11,In Training,Montgomery Puppy Raising Region
+1104,Harmony,3H20,Female,LR,B,2020-01-24,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,2022-04-26,In Training,Columbus Puppy Raising Region
+1109,Griffin,2G20,Male,LR,Y,2020-01-23,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,2021-10-18,In Training,Delmarva Puppy Raising Region
+1112,Francis,2F20,Male,LR,B,2020-01-23,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2022-02-15,In Training,New Hampshire Puppy Raising Region
+1113,Fallon,3F20,Female,LR,B,2020-01-23,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2022-03-02,In Training,Cleveland East Puppy Raising Region
+1114,Fernando,4F20,Male,LR,B,2020-01-23,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2022-02-15,In Training,Maine Puppy Raising Region
+1121,Gabe,4G20,Male,LR,Y,2020-01-23,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,2022-03-15,In Training,Erie NY Puppy Raising Region
+1123,Gregg,6G20,Male,LR,Y,2020-01-23,MacKenzie - S - 2M18 - LRYF,Jasper - 4JJ17 - LRYM,2022-02-15,In Training,Bay Puppy Raising Region
+1132,Denali,2D20,Male,LR,Y,2020-01-10,Maya - 4MM15 - LRBF,Edgar - 1E315 - LRBM,2022-02-15,In Training,Richmond Puppy Raising Region
+1150,Buddy,9B20,Male,LR,B,2020-01-07,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,2022-02-15,In Training,Cleveland West Puppy Raising Region
