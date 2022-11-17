@@ -1,0 +1,666 @@
+,Dog Name,Tattoo,Gender,Breed,Color,Birthdate,Dam,Sire,Current Status Date,Status
+0,Pearl,7P322,Female,LR,Y,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+1,Paisley,3P322,Female,LR,B,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+2,Prairie,1P322,Female,LR,B,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+3,Pembroke,5P322,Male,LR,Y,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+4,Petal,2P322,Female,LR,B,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+5,Pria,4P322,Female,LR,B,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+6,Primrose,6P322,Female,LR,B,2022-10-31,Orchid - 6O417 - LRYF,Elton - 4EE20 - LRBM,2022-10-31,Too Young to Test
+7,Puppy 7,7O322,Male,LR,B,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+8,Puppy 3,3O322,Female,LR,B,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+9,Puppy,1O322,Male,LR,B,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+10,Puppy 2,2O322,Male,LR,B,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+11,Puppy 4,4O322,Male,LR,Y,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+12,Puppy 5,5O322,Male,LR,Y,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+13,Puppy 6,6O322,Female,LR,Y,2022-10-30,Terri - 3T18 - LRBF,Baron - 4B20 - LRBM,2022-10-30,Too Young to Test
+14,Nevada,9N322,Female,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+15,Neema,5N322,Female,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+16,Nutella,2N322,Female,LR,Y,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+17,Nettie,6N322,Female,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+18,Neil,8N322,Male,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+19,Nathan,3N322,Male,LR,Y,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+20,Nifty,4N322,Female,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+21,Nabisco,1N322,Male,LR,Y,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+22,Nemoy,10N322,Male,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+23,Neutron,7N322,Male,LR,B,2022-10-23,Quail - 6Q417 - LRBF,Baron - 4B20 - LRBM,2022-10-23,Too Young to Test
+24,Mission,4M322,Female,LR,Y,2022-10-20,Ona - 6O19 - LRBF,Clay - 5C319 - LRYM,2022-10-20,Too Young to Test
+25,Moose,5M322,Male,LR,B,2022-10-20,Ona - 6O19 - LRBF,Clay - 5C319 - LRYM,2022-10-20,Too Young to Test
+26,Molly,2M322,Female,LR,B,2022-10-20,Ona - 6O19 - LRBF,Clay - 5C319 - LRYM,2022-10-20,Too Young to Test
+27,Mocha,3M322,Female,LR,B,2022-10-20,Ona - 6O19 - LRBF,Clay - 5C319 - LRYM,2022-10-20,Too Young to Test
+28,Magic,6M322,Female,LR,B,2022-10-20,Ona - 6O19 - LRBF,Clay - 5C319 - LRYM,2022-10-20,Too Young to Test
+29,Mojo,7M322,Male,LR,B,2022-10-20,Ona - 6O19 - LRBF,Clay - 5C319 - LRYM,2022-10-20,Too Young to Test
+30,Liv,6L322,Female,LR,Y,2022-10-15,Ellen - 7EE20 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-15,Too Young to Test
+31,Lucky,5L322,Male,LR,Y,2022-10-15,Ellen - 7EE20 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-15,Too Young to Test
+32,Landon,1L322,Male,LR,Y,2022-10-15,Ellen - 7EE20 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-15,Too Young to Test
+33,Lincoln,2L322,Male,LR,B,2022-10-15,Ellen - 7EE20 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-15,Too Young to Test
+34,Lotto,3L322,Male,LR,Y,2022-10-15,Ellen - 7EE20 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-15,Too Young to Test
+35,Louisa,4L322,Female,LR,Y,2022-10-15,Ellen - 7EE20 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-15,Too Young to Test
+36,Kelly,3K322,Female,LR,B,2022-10-13,Cammie - 3C418 - LRBF,Denny - 8D21 - LRBM,2022-10-13,Too Young to Test
+37,Kathy,1K322,Female,LR,B,2022-10-13,Cammie - 3C418 - LRBF,Denny - 8D21 - LRBM,2022-10-13,Too Young to Test
+38,Knight,2K322,Male,LR,B,2022-10-13,Cammie - 3C418 - LRBF,Denny - 8D21 - LRBM,2022-10-13,Too Young to Test
+39,Jett,1J322,Male,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+40,Jayla,2J322,Female,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+41,Jubilee,4J322,Female,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+42,Jazzy,3J322,Female,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+43,Jones,6J322,Male,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+44,Junior,7J322,Male,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+45,Jamaica,8J322,Female,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+46,Joy,5J322,Female,LR,B,2022-10-08,Oksana - 6OO19 - LRBF,Nash - 1N319 - LRYM,2022-10-08,Too Young to Test
+47,Iva,4I322,Female,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+48,Iko,1I322,Male,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+49,Irving,9I322,Male,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+50,Isley,8I322,Female,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+51,Iman,6I322,Female,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+52,Ipso,3I322,Male,LR,Y,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+53,Ives,2I322,Male,LR,Y,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+54,Ink,5I322,Male,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+55,Indra,7I322,Female,LR,B,2022-10-04,Edna - S - 1EE17 - LRBF,Ralphie - 3R20 - LRBM,2022-10-04,Too Young to Test
+56,Homer,1H322,Male,LR,Y,2022-09-23,Promise - 2P319 - LRYF,Clay - 5C319 - LRYM,2022-09-23,Too Young to Test
+57,Hadley,3H322,Male,LR,Y,2022-09-23,Promise - 2P319 - LRYF,Clay - 5C319 - LRYM,2022-09-23,Too Young to Test
+58,Germaine,1G322,Male,LR,B,2022-09-21,Oriana - 2O317 - LRYF,Felix TSE - FELIX - LRBM *NOP*,2022-09-21,Too Young to Test
+59,Gandalf,2G322,Male,LR,Y,2022-09-21,Oriana - 2O317 - LRYF,Felix TSE - FELIX - LRBM *NOP*,2022-09-21,Too Young to Test
+60,Gerry,3G322,Male,LR,B,2022-09-21,Oriana - 2O317 - LRYF,Felix TSE - FELIX - LRBM *NOP*,2022-09-21,Too Young to Test
+61,Frito,1F322,Female,LR,Y,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+62,Fozzy,2F322,Male,LR,Y,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+63,Farley,8F322,Male,LR,B,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+64,Fiat,9F322,Female,LR,B,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+65,Frisco,3F322,Male,LR,Y,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+66,Fajita,7F322,Female,LR,B,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+67,Fletch,10F322,Male,LR,B,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+68,Festiva,4F322,Female,LR,B,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+69,Fuji,5F322,Female,LR,B,2022-09-13,Gibby - 2G19 - LRBF,Elton - 4EE20 - LRBM,2022-09-13,Too Young to Test
+70,Everest,2E322,Male,LR,Y,2022-09-12,Locket - 10L318 - LRBF,Everett - 1E419 - LRYM,2022-09-12,Too Young to Test
+71,Ellie,4E322,Female,LR,Y,2022-09-12,Locket - 10L318 - LRBF,Everett - 1E419 - LRYM,2022-09-12,Too Young to Test
+72,Echo,5E322,Female,LR,Y,2022-09-12,Locket - 10L318 - LRBF,Everett - 1E419 - LRYM,2022-09-12,Too Young to Test
+73,Eclair,6E322,Female,LR,Y,2022-09-12,Locket - 10L318 - LRBF,Everett - 1E419 - LRYM,2022-09-12,Too Young to Test
+74,Elias,3E322,Male,LR,Y,2022-09-12,Locket - 10L318 - LRBF,Everett - 1E419 - LRYM,2022-09-12,Too Young to Test
+75,Edsel,1E322,Male,LR,B,2022-09-12,Locket - 10L318 - LRBF,Everett - 1E419 - LRYM,2022-09-12,Too Young to Test
+76,Dennison,2D322,Male,LR,B,2022-09-10,Quay - 4QQ19 - LRBF,Denny - 8D21 - LRBM,2022-09-10,Too Young to Test
+77,Dutch,1D322,Male,LR,B,2022-09-10,Quay - 4QQ19 - LRBF,Denny - 8D21 - LRBM,2022-09-10,Too Young to Test
+78,Baja,4B322,Female,LR,Y,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-25,Ready for Puppy Raiser
+79,Brindy,5B322,Female,LR,B,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-25,Ready for Puppy Raiser
+80,Cara,2C322,Female,LR,B,2022-08-31,Dusk - 7D418 - LRBF,Perry - 1P319 - LRBM,2022-10-29,Puppy Raising
+81,Bingo,2B322,Male,LR,BRIN,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-30,Puppy Raising
+82,Char,1C322,Female,LR,B,2022-08-31,Dusk - 7D418 - LRBF,Perry - 1P319 - LRBM,2022-10-27,Ready for Puppy Raiser
+83,Bean,1B322,Female,LR,Y,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-30,Puppy Raising
+84,Bruno,8B322,Male,LR,B,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-30,Puppy Raising
+85,Barney,3B322,Male,LR,Y,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-24,Ready for Puppy Raiser
+86,Boston,6B322,Male,LR,B,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-31,Puppy Raising
+87,Bonnet,7B322,Female,LR,Y,2022-08-31,Helen - 3HH19 - LRYF,Dover - 3D19 - LRBM,2022-10-26,Puppy Raising
+88,Albert,6A322,Male,LR,Y,2022-08-26,Demi - 5D319 - LRYF,Clay - 5C319 - LRYM,2022-10-19,Ready for Puppy Raiser
+89,Arthur,7A322,Male,LR,Y,2022-08-26,Demi - 5D319 - LRYF,Clay - 5C319 - LRYM,2022-10-26,Puppy Raising
+90,Ambrosia,2A322,Female,LR,Y,2022-08-26,Demi - 5D319 - LRYF,Clay - 5C319 - LRYM,2022-10-20,Puppy Raising
+91,Alban,5A322,Male,LR,Y,2022-08-26,Demi - 5D319 - LRYF,Clay - 5C319 - LRYM,2022-10-19,Ready for Puppy Raiser
+93,Abilene,4A322,Female,LR,Y,2022-08-26,Demi - 5D319 - LRYF,Clay - 5C319 - LRYM,2022-10-21,Puppy Raising
+94,Arizona,3A322,Female,LR,Y,2022-08-26,Demi - 5D319 - LRYF,Clay - 5C319 - LRYM,2022-10-25,Puppy Raising
+95,Yoki,4YY22,Female,LR,Y,2022-08-24,Lava - 4L417 - LRBF,Midnight - 4M19 - LRBM,2022-10-21,Puppy Raising
+96,Yasmine,3YY22,Female,LR,Y,2022-08-24,Lava - 4L417 - LRBF,Midnight - 4M19 - LRBM,2022-10-17,Ready for Puppy Raiser
+97,Yola,1YY22,Female,LR,B,2022-08-24,Lava - 4L417 - LRBF,Midnight - 4M19 - LRBM,2022-10-17,Ready for Puppy Raiser
+98,Yorkshire,2YY22,Male,LR,Y,2022-08-24,Lava - 4L417 - LRBF,Midnight - 4M19 - LRBM,2022-10-20,Puppy Raising
+99,Waylee,9WW22,Female,LR,B,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-18,Puppy Raising
+101,Wayne,6WW22,Male,LR,B,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-30,Puppy Raising
+102,Walter,3WW22,Male,LR,B,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-21,Puppy Raising
+104,Wyatt,5WW22,Male,LR,Y,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-14,Ready for Puppy Raiser
+105,Winslow,1WW22,Male,LR,B,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-14,Ready for Puppy Raiser
+106,Wendell,7WW22,Male,LR,B,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-14,Ready for Puppy Raiser
+108,Wilbur,8WW22,Male,LR,Y,2022-08-20,Liza - 5L318 - LRBF,Everett - 1E419 - LRYM,2022-10-14,Puppy Raising
+109,Viera,1VV22,Female,LR,Y,2022-08-06,Bianca - P - 5B317 - LRYF,Clay - 5C319 - LRYM,2022-10-27,Puppy Raising
+111,Vogue,5VV22,Female,LR,Y,2022-08-06,Bianca - P - 5B317 - LRYF,Clay - 5C319 - LRYM,2022-10-30,Puppy Raising
+112,Villa,3VV22,Female,LR,Y,2022-08-06,Bianca - P - 5B317 - LRYF,Clay - 5C319 - LRYM,2022-10-18,Puppy Raising
+114,Victoria,4VV22,Female,LR,Y,2022-08-06,Bianca - P - 5B317 - LRYF,Clay - 5C319 - LRYM,2022-10-31,Puppy Raising
+115,Visa,7VV22,Female,LR,Y,2022-08-06,Bianca - P - 5B317 - LRYF,Clay - 5C319 - LRYM,2022-10-02,Puppy Raising
+116,Tremaine,5TT22,Male,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-30,Puppy Raising
+117,Trinket,8TT22,Female,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-14,Puppy Raising
+118,Trixie,6TT22,Female,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-02,Puppy Raising
+120,Tory,2TT22,Female,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-14,Puppy Raising
+121,Tina,1TT22,Female,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-05,Puppy Raising
+122,Tanya,3TT22,Female,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-22,Puppy Raising
+123,Timothy,4TT22,Male,LR,B,2022-08-03,Winter - 1W18 - LRBF,Dover - 3D19 - LRBM,2022-10-26,Puppy Raising
+125,Savannah,2SS22,Female,LR,B,2022-07-29,Minka - 6MM17 - LRBF,Darren - 4D20 - LRBM,2022-10-11,Puppy Raising
+126,Star,3SS22,Female,LR,B,2022-07-29,Minka - 6MM17 - LRBF,Darren - 4D20 - LRBM,2022-10-02,Puppy Raising
+127,Santana,5SS22,Male,LR,B,2022-07-29,Minka - 6MM17 - LRBF,Darren - 4D20 - LRBM,2022-10-20,Puppy Raising
+129,Sprinkles,7SS22,Female,LR,B,2022-07-29,Minka - 6MM17 - LRBF,Darren - 4D20 - LRBM,2022-09-26,Puppy Raising
+130,Sushi,8SS22,Female,LR,B,2022-07-29,Minka - 6MM17 - LRBF,Darren - 4D20 - LRBM,2022-10-07,Puppy Raising
+131,Romeo,2RR22,Male,LR,Y,2022-07-24,Irene - 6II20 - LRBF,Perry - 1P319 - LRBM,2022-09-18,Puppy Raising
+132,Randall,1RR22,Male,LR,B,2022-07-24,Irene - 6II20 - LRBF,Perry - 1P319 - LRBM,2022-10-20,Puppy Raising
+133,Ripley,3RR22,Male,LR,B,2022-07-24,Irene - 6II20 - LRBF,Perry - 1P319 - LRBM,2022-09-17,Puppy Raising
+134,Quarter,3QQ22,Male,LR,B,2022-07-21,Coco - S - 1C418 - LRBF,Arlo - 1A320 - LRBM,2022-09-15,Puppy Raising
+136,Quintessa,2QQ22,Female,LR,Y,2022-07-21,Coco - S - 1C418 - LRBF,Arlo - 1A320 - LRBM,2022-09-15,Puppy Raising
+137,Quigley,5QQ22,Male,LR,Y,2022-07-21,Coco - S - 1C418 - LRBF,Arlo - 1A320 - LRBM,2022-09-17,Puppy Raising
+138,Quasi,4QQ22,Male,LR,B,2022-07-21,Coco - S - 1C418 - LRBF,Arlo - 1A320 - LRBM,2022-10-20,Puppy Raising
+140,Quinbie,7QQ22,Female,LR,B,2022-07-21,Coco - S - 1C418 - LRBF,Arlo - 1A320 - LRBM,2022-09-16,Puppy Raising
+141,Paul,7PP22,Male,LR,Y,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-10-12,Puppy Raising
+142,Peace,2PP22,Female,LR,Y,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-09-18,Puppy Raising
+143,Patch,1PP22,Male,LR,B&T,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-09-15,Puppy Raising
+144,Potter,6PP22,Male,LR,B,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-09-18,Puppy Raising
+145,Parfait,4PP22,Female,LR,Y,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-09-18,Puppy Raising
+147,Pluto,3PP22,Male,LR,Y,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-09-18,Puppy Raising
+148,Paddington,8PP22,Male,LR,Y,2022-07-19,Zelda - 1Z319 - LRBF,Gerald - 7G20 - LRYM,2022-10-20,Puppy Raising
+149,Obie,1OO22,Male,GS,B&T,2022-07-11,Hexa - 4HH20 - GSBF,Usher TSE - USHER - GSB&TM *NOP*,2022-09-18,Puppy Raising
+151,Nikolai,1NN22,Male,LR,B,2022-07-05,Madeline - 7M20 - LRYF,Odin - 5OO19 - LRBM,2022-09-18,Puppy Raising
+152,Nikon,2NN22,Male,LR,B,2022-07-05,Madeline - 7M20 - LRYF,Odin - 5OO19 - LRBM,2022-09-03,Puppy Raising
+153,Nova,3NN22,Female,LR,B,2022-07-05,Madeline - 7M20 - LRYF,Odin - 5OO19 - LRBM,2022-09-02,Puppy Raising
+155,Mitch,3MM22,Male,LR,B,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-08-28,Puppy Raising
+156,Maverick,2MM22,Male,LR,Y,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-08-28,Puppy Raising
+157,Maguire,4MM22,Male,LR,Y,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-08-28,Puppy Raising
+158,Marcy,6MM22,Female,LR,B,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-09-16,Puppy Raising
+159,Magnus,5MM22,Male,LR,B,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-09-08,Puppy Raising
+161,Muffin,7MM22,Female,LR,Y,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-08-25,Puppy Raising
+162,Maxwell,8MM22,Male,LR,B,2022-07-02,Dawn - 1DD20 - LRYF,Dover - 3D19 - LRBM,2022-08-30,Puppy Raising
+163,Lupo,3LL22,Male,LR,B,2022-06-21,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,2022-09-15,Puppy Raising
+164,Lenora,1LL22,Female,LR,B,2022-06-21,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,2022-08-20,Puppy Raising
+166,Lenny,7LL22,Male,LR,B,2022-06-21,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,2022-08-25,Puppy Raising
+167,Luigi,6LL22,Male,LR,B,2022-06-21,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,2022-08-26,Puppy Raising
+168,Lucerne,5LL22,Female,LR,B,2022-06-21,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,2022-08-19,Puppy Raising
+169,Lorenzo,4LL22,Male,LR,B,2022-06-21,Via - 6VV18 - LRBF,Elrod - 6E319 - LRBM,2022-09-02,Puppy Raising
+170,Kristen,8KK22,Female,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-13,Puppy Raising
+172,Mishkin,3KK22,Male,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-20,Puppy Raising
+173,Kiley,1KK22,Female,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-13,Puppy Raising
+175,Kate,6KK22,Female,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-13,Puppy Raising
+176,Kelsa,5KK22,Female,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-20,Puppy Raising
+177,Miller2,4KK22,Male,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-14,Puppy Raising
+178,Kingsley,7KK22,Male,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-15,Puppy Raising
+179,Kathleen,10KK22,Female,GS,B&T,2022-06-18,Mittzy - 2M318 - GSB&TF,Usher TSE - USHER - GSB&TM *NOP*,2022-08-18,Puppy Raising
+180,James,1JJ22,Male,LR,B,2022-06-16,Dakota - 4D419 - LRYF,Odin - 5OO19 - LRBM,2022-08-15,Puppy Raising
+182,Jewel,3JJ22,Female,LR,B,2022-06-16,Dakota - 4D419 - LRYF,Odin - 5OO19 - LRBM,2022-08-12,Puppy Raising
+183,Julio,5JJ22,Male,LR,B,2022-06-16,Dakota - 4D419 - LRYF,Odin - 5OO19 - LRBM,2022-08-15,Puppy Raising
+184,Jupiter,4JJ22,Female,LR,B,2022-06-16,Dakota - 4D419 - LRYF,Odin - 5OO19 - LRBM,2022-08-13,Puppy Raising
+194,Herb,5HH22,Male,LR,B,2022-06-07,Bonnie - 4B18 - LRYF,Bosley - 1B418 - LRBM,2022-08-27,Puppy Raising
+195,Helix,4HH22,Male,LR,Y,2022-06-07,Bonnie - 4B18 - LRYF,Bosley - 1B418 - LRBM,2022-08-03,Puppy Raising
+196,Heron,7HH22,Female,LR,Y,2022-06-07,Bonnie - 4B18 - LRYF,Bosley - 1B418 - LRBM,2022-08-11,Puppy Raising
+197,Henry,2HH22,Male,LR,B,2022-06-07,Bonnie - 4B18 - LRYF,Bosley - 1B418 - LRBM,2022-08-31,Puppy Raising
+198,Harvey,3HH22,Male,LR,Y,2022-06-07,Bonnie - 4B18 - LRYF,Bosley - 1B418 - LRBM,2022-09-18,Puppy Raising
+199,Henna,6HH22,Female,LR,Y,2022-06-07,Bonnie - 4B18 - LRYF,Bosley - 1B418 - LRBM,2022-08-24,Puppy Raising
+202,Freedom,6FF22,Male,LR,Y,2022-06-01,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,2022-08-10,Puppy Raising
+203,Frank,4FF22,Male,LR,B,2022-06-01,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,2022-08-10,Puppy Raising
+205,Forbes,9FF22,Male,LR,B,2022-06-01,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,2022-08-10,Puppy Raising
+206,Figi,8FF22,Female,LR,Y,2022-06-01,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,2022-08-10,Puppy Raising
+210,Fiesta,5FF22,Female,LR,B,2022-06-01,Capri - 2C17 - LRBF,Kisco - 6KK18 - LRYM,2022-08-10,Puppy Raising
+211,Ella,4EE22,Female,LR,B,2022-05-17,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,2022-08-03,Puppy Raising
+212,Elsie,3EE22,Female,LR,B,2022-05-17,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,2022-07-29,Puppy Raising
+214,Ellison,7EE22,Male,LR,B,2022-05-17,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,2022-08-09,Puppy Raising
+215,Ezra,1EE22,Male,LR,B,2022-05-17,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,2022-08-11,Puppy Raising
+216,Elon,5EE22,Male,LR,B,2022-05-17,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,2022-08-11,Puppy Raising
+217,Edward,8EE22,Male,LR,B,2022-05-17,MacKenzie - S - 2M18 - LRYF,Darren - 4D20 - LRBM,2022-07-17,Puppy Raising
+233,Darby,4DD22,Male,LR,Y,2022-05-15,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,2022-07-09,Puppy Raising
+234,Delta,3DD22,Female,LR,Y,2022-05-15,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,2022-08-15,Puppy Raising
+235,Daryl,5DD22,Female,LR,Y,2022-05-15,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,2022-07-24,Puppy Raising
+236,Donovan,7DD22,Male,LR,Y,2022-05-15,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,2022-07-16,Puppy Raising
+238,Dayton,8DD22,Male,LR,Y,2022-05-15,Bonita - P - 8B417 - LRYF,Donny - 2D419 - LRBM,2022-07-17,Puppy Raising
+239,Cole,1CC22,Male,GS,B&T,2022-05-12,Jazz GDA - 1X20 - GSB&TF,Timber FGDF - TIMBER FGD - GSB&TM *NOP*,2022-07-17,Puppy Raising
+241,Bijou,2BB22,Female,LR,B,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-08-13,Puppy Raising
+242,Bernie,3BB22,Male,LR,Y,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-09,Puppy Raising
+243,Brandt,4BB22,Male,LR,B,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-08,Puppy Raising
+244,Belgium,11BB22,Female,LR,Y,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-30,Puppy Raising
+245,Beacon,10BB22,Male,LR,Y,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-17,Puppy Raising
+246,Baxter,5BB22,Male,LR,B,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-30,Puppy Raising
+247,Bankie,8BB22,Male,LR,B,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-07,Puppy Raising
+248,Broadway,9BB22,Female,LR,Y,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-31,Puppy Raising
+250,Bryna,6BB22,Female,LR,Y,2022-05-11,Dana - 5D419 - LRBF,Rider - 3R15 - LRBM,2022-07-07,Puppy Raising
+251,Angus,1AA22,Male,LR,B,2022-05-01,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,2022-06-28,Puppy Raising
+252,Ambie,2AA22,Female,LR,Y,2022-05-01,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,2022-07-17,Puppy Raising
+253,Ada,3AA22,Female,LR,Y,2022-05-01,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,2022-07-30,Puppy Raising
+254,Aladdin,4AA22,Male,LR,Y,2022-05-01,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,2022-06-25,Puppy Raising
+255,Avril,5AA22,Female,LR,B,2022-05-01,Vanna - 4V318 - LRYF,Elton - 4EE20 - LRBM,2022-07-21,Puppy Raising
+266,Yeti,1Y22,Female,LR,Y,2022-04-13,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,2022-06-08,Puppy Raising
+267,Yolanda,3Y22,Female,LR,Y,2022-04-13,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,2022-07-15,Puppy Raising
+268,Yaeger,4Y22,Male,LR,Y,2022-04-13,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,2022-06-28,Puppy Raising
+269,Yoyo,5Y22,Female,LR,Y,2022-04-13,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,2022-06-09,Puppy Raising
+270,Yogi,2Y22,Male,LR,Y,2022-04-13,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,2022-06-09,Puppy Raising
+271,Yvonne,6Y22,Female,LR,Y,2022-04-13,Janet - 2J20 - LRYF,Garcia - 4G16 - LRYM,2022-08-03,Puppy Raising
+273,Wade,2W22,Male,LR,B,2022-04-11,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,2022-07-17,Puppy Raising
+274,Watson,3W22,Male,LR,B,2022-04-11,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,2022-07-09,Puppy Raising
+276,Watkins,6W22,Male,LR,B,2022-04-11,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,2022-07-16,Puppy Raising
+277,Winette,9W22,Female,LR,B,2022-04-11,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,2022-06-12,Puppy Raising
+279,Waffle,1W22,Female,LR,B,2022-04-11,Debbie - 6D319 - LRYF,Dasher - 6D418 - LRBM,2022-07-24,Puppy Raising
+281,Verona,2V22,Female,LR,B,2022-04-04,Okemo - 7OO19 - LRBF,Bosley - 1B418 - LRBM,2022-06-14,Puppy Raising
+282,Vida,3V22,Female,LR,B,2022-04-04,Okemo - 7OO19 - LRBF,Bosley - 1B418 - LRBM,2022-06-25,Puppy Raising
+283,Vespa,5V22,Female,LR,Y,2022-04-04,Okemo - 7OO19 - LRBF,Bosley - 1B418 - LRBM,2022-06-08,Puppy Raising
+284,Sean,6V22,Male,LR,B,2022-04-04,Okemo - 7OO19 - LRBF,Bosley - 1B418 - LRBM,2022-06-30,Puppy Raising
+286,Tux,1T22,Male,LR,B,2022-04-02,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,2022-07-07,Puppy Raising
+287,Ten,2T22,Male,LR,Y,2022-04-02,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,2022-07-02,Puppy Raising
+288,Tootsie,4T22,Female,LR,B,2022-04-02,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,2022-06-10,Puppy Raising
+291,Tahiti,7T22,Female,LR,B,2022-04-02,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,2022-06-24,Puppy Raising
+293,Tank,10T22,Male,LR,B,2022-04-02,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,2022-06-23,Puppy Raising
+295,Treasure,11T22,Female,LR,B,2022-04-02,Felicia - 5F20 - LRBF,Dover - 3D19 - LRBM,2022-06-12,Puppy Raising
+297,Sandra,2S22,Female,LR,B,2022-03-26,Terri - 3T18 - LRBF,Midnight - 4M19 - LRBM,2022-07-17,Puppy Raising
+298,Sonic,6S22,Male,LR,B,2022-03-26,Terri - 3T18 - LRBF,Midnight - 4M19 - LRBM,2022-06-08,Puppy Raising
+299,Sherman,3S22,Male,LR,B,2022-03-26,Terri - 3T18 - LRBF,Midnight - 4M19 - LRBM,2022-06-14,Puppy Raising
+300,Suzanne,4S22,Female,LR,B,2022-03-26,Terri - 3T18 - LRBF,Midnight - 4M19 - LRBM,2022-06-08,Puppy Raising
+301,Stitch,5S22,Male,LR,B,2022-03-26,Terri - 3T18 - LRBF,Midnight - 4M19 - LRBM,2022-06-08,Puppy Raising
+302,Renegade,2R22,Female,GS,B&T,2022-03-21,Xena - 2X20 - GSB&TF,Hobie - 1HH20 - GSB&TM,2022-05-18,Puppy Raising
+304,Rookie,3R22,Male,GS,B,2022-03-21,Xena - 2X20 - GSB&TF,Hobie - 1HH20 - GSB&TM,2022-05-16,Puppy Raising
+305,Rogue,4R22,Female,GS,B&T,2022-03-21,Xena - 2X20 - GSB&TF,Hobie - 1HH20 - GSB&TM,2022-05-18,Puppy Raising
+308,Carmen,7Q22,Female,LR,B,2022-03-18,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,2022-05-18,Puppy Raising
+309,Quattro,9Q22,Male,LR,B,2022-03-18,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,2022-05-18,Puppy Raising
+310,Quill,5Q22,Female,LR,B,2022-03-18,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,2022-06-14,Puppy Raising
+311,Quidditch,8Q22,Male,LR,B,2022-03-18,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,2022-06-06,Puppy Raising
+312,Queso,10Q22,Male,LR,B,2022-03-18,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,2022-06-08,Puppy Raising
+314,Quantum,2Q22,Male,LR,B,2022-03-18,Helga - 6H319 - LRBF,Odin - 5OO19 - LRBM,2022-06-08,Puppy Raising
+316,Phoenix,3P22,Female,LR,Y,2022-03-17,Tempest - 4TT18 - LRYF,Gomer - 4G319 - LRYM,2022-05-18,Puppy Raising
+318,Gait,2P22,Female,LR,Y,2022-03-17,Tempest - 4TT18 - LRYF,Gomer - 4G319 - LRYM,2022-05-14,Puppy Raising
+320,Pax,5P22,Male,LR,Y,2022-03-17,Tempest - 4TT18 - LRYF,Gomer - 4G319 - LRYM,2022-05-18,Puppy Raising
+321,Oak,2O22,Male,LR,B,2022-03-12,Piper - 1P318 - LRYF,Elrod - 6E319 - LRBM,2022-05-18,Puppy Raising
+323,Opus,4O22,Male,LR,B,2022-03-12,Piper - 1P318 - LRYF,Elrod - 6E319 - LRBM,2022-06-08,Puppy Raising
+325,O'Hara,5O22,Female,LR,B,2022-03-12,Piper - 1P318 - LRYF,Elrod - 6E319 - LRBM,2022-06-12,Puppy Raising
+326,Ophelia,1O22,Female,LR,B,2022-03-12,Piper - 1P318 - LRYF,Elrod - 6E319 - LRBM,2022-05-21,Puppy Raising
+327,Newton,8N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-06-21,Puppy Raising
+328,Nomad,9N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-05-14,Puppy Raising
+329,Nashville,10N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-05-14,Puppy Raising
+330,Richie,1N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-06-08,Puppy Raising
+332,Nigel,3N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-06-06,Puppy Raising
+335,Russell,6N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-05-14,Puppy Raising
+336,Navy,7N22,Male,LR,Y,2022-03-10,Emblem - 6EE19 - LRYF,Everett - 1E419 - LRYM,2022-06-08,Puppy Raising
+338,Matthew,4M22,Male,LR,B,2022-02-27,Cora - 4C19 - LRBF,Gomer - 4G319 - LRYM,2022-05-01,Puppy Raising
+339,Max,2M22,Female,LR,B,2022-02-27,Cora - 4C19 - LRBF,Gomer - 4G319 - LRYM,2022-05-16,Puppy Raising
+343,Lumos,5L22,Female,LR,B,2022-02-26,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-05-14,Puppy Raising
+344,Licorice,7L22,Female,LR,B,2022-02-26,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-05-16,Puppy Raising
+345,Lucille,8L22,Female,LR,B,2022-02-26,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-06-14,Puppy Raising
+347,Lazz,10L22,Male,LR,B,2022-02-26,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-05-14,Puppy Raising
+349,Livy,1L22,Female,LR,B,2022-02-26,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-05-14,Puppy Raising
+350,Lupin,2L22,Male,LR,B,2022-02-26,Caprice - 8C318 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-05-08,Puppy Raising
+351,Kirk,10K22,Male,LR,B,2022-02-25,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,2022-05-14,Puppy Raising
+352,Kismet,6K22,Female,LR,B,2022-02-25,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,2022-04-24,Puppy Raising
+355,Kendall,1K22,Female,LR,Y,2022-02-25,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,2022-04-23,Puppy Raising
+357,Klondike,3K22,Male,LR,Y,2022-02-25,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,2022-04-23,Puppy Raising
+359,Kay,5K22,Female,LR,Y,2022-02-25,Hetty - 10HH18 - LRYF,Baron - 4B20 - LRBM,2022-04-23,Puppy Raising
+360,Jimi,1J22,Male,LR,B,2022-02-21,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,2022-05-08,Puppy Raising
+362,Jeremy,3J22,Male,LR,B,2022-02-21,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,2022-05-14,Puppy Raising
+363,Jeanette,4J22,Female,LR,B,2022-02-21,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,2022-05-18,Puppy Raising
+364,Jada,5J22,Female,LR,B,2022-02-21,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,2022-05-10,Puppy Raising
+365,Jamie,6J22,Male,LR,B,2022-02-21,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,2022-05-18,Puppy Raising
+366,Jeeper,8J22,Male,LR,B,2022-02-21,Oriana - 2O317 - LRYF,Darren - 4D20 - LRBM,2022-05-04,Puppy Raising
+370,Irby,4I22,Male,LR,Y,2022-02-07,Loretta - 2L20 - LRYF,Felix TSE - FELIX - LRBM *NOP*,2022-06-04,Puppy Raising
+372,Isla,7I22,Female,LR,Y,2022-02-07,Loretta - 2L20 - LRYF,Felix TSE - FELIX - LRBM *NOP*,2022-04-10,Puppy Raising
+373,Inez,8I22,Female,LR,B,2022-02-07,Loretta - 2L20 - LRYF,Felix TSE - FELIX - LRBM *NOP*,2022-04-30,Puppy Raising
+376,Harley,3H22,Female,LR,B,2022-02-07,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,2022-04-17,Puppy Raising
+378,Haiku,4H22,Female,LR,B,2022-02-07,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,2022-04-10,Puppy Raising
+379,Hope,6H22,Female,LR,B,2022-02-07,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,2022-04-12,Puppy Raising
+380,Hugo,7H22,Male,LR,B,2022-02-07,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,2022-05-17,Puppy Raising
+381,Hoover,8H22,Male,LR,B,2022-02-07,Dee - 5D19 - LRBF,Clay - 5C319 - LRYM,2022-05-05,Puppy Raising
+382,Giada,3G22,Female,LR,B,2022-02-06,Eloise - 5E319 - LRBF,Odin - 5OO19 - LRBM,2022-05-18,Puppy Raising
+383,Gage,4G22,Male,LR,B,2022-02-06,Eloise - 5E319 - LRBF,Odin - 5OO19 - LRBM,2022-05-14,Puppy Raising
+384,Greta,2G22,Female,LR,B,2022-02-06,Eloise - 5E319 - LRBF,Odin - 5OO19 - LRBM,2022-04-07,Puppy Raising
+385,Georgette,5G22,Female,LR,B,2022-02-06,Eloise - 5E319 - LRBF,Odin - 5OO19 - LRBM,2022-04-28,Puppy Raising
+388,Dottie,2D22,Female,LR,B,2022-01-16,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-03-16,Puppy Raising
+391,Dewey,4D22,Male,LR,Y,2022-01-16,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-04-19,Puppy Raising
+393,Dooley,5D22,Male,LR,B,2022-01-16,Patrice - 6P319 - LRBF,Felix TSE - FELIX - LRBM *NOP*,2022-04-23,Puppy Raising
+395,Eddie,4E+22,Male,LR,B,2022-01-16,Orly - 7O14 - LRBF,Elrod - 6E319 - LRBM,2022-04-22,Puppy Raising
+396,Emil,3E+22,Male,LR,B,2022-01-16,Orly - 7O14 - LRBF,Elrod - 6E319 - LRBM,2022-04-09,Puppy Raising
+404,Brody,5C22,Male,LR,B,2022-01-08,Buttons - 4B19 - LRYF,Elton - 4EE20 - LRBM,2022-04-10,Puppy Raising
+405,Carly,8C22,Female,LR,Y,2022-01-08,Buttons - 4B19 - LRYF,Elton - 4EE20 - LRBM,2022-04-09,Puppy Raising
+406,Blaze,1B22,Female,LR,Y,2022-01-06,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,2022-03-20,Puppy Raising
+407,Blossom,7B22,Female,LR,B,2022-01-06,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,2022-04-04,Puppy Raising
+409,Barclay,3B22,Male,LR,Y,2022-01-06,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,2022-03-05,Puppy Raising
+410,Biscuit,4B22,Female,LR,Y,2022-01-06,Guava - 2G317 - LRYF,Wiggins - 8WW19 - LRBM,2022-03-11,Puppy Raising
+413,Artie,1A22,Male,LR,B,2022-01-02,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,2022-04-10,Puppy Raising
+418,Amber,5A22,Female,LR,B,2022-01-02,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,2022-03-20,Puppy Raising
+419,Archer,6A22,Male,LR,B,2022-01-02,Brio - S - 6B319 - LRYF,Darren - 4D20 - LRBM,2022-03-22,Puppy Raising
+421,Walton,1W321,Male,LR,B,2021-12-29,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,2022-03-12,Puppy Raising
+424,Wegman,4W321,Male,LR,B,2021-12-29,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,2022-03-31,Puppy Raising
+425,Wafer,5W321,Female,LR,B,2021-12-29,Viv - 2VV18 - LRBF,Dasher - 6D418 - LRBM,2022-03-13,Puppy Raising
+432,Vero,4V321,Male,LR,B,2021-12-22,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2022-02-19,Puppy Raising
+433,Vasha,5V321,Female,LR,B,2021-12-22,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2022-03-14,Puppy Raising
+434,Valise,6V321,Female,LR,B,2021-12-22,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2022-03-14,Puppy Raising
+435,Vale,7V321,Male,LR,B,2021-12-22,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2022-03-22,Puppy Raising
+436,Vern,8V321,Male,LR,B,2021-12-22,Wanita - 5W18 - LRBF,Pablo - 3P319 - LRYM,2022-03-22,Puppy Raising
+440,Tinsel,4T321,Female,LR,B,2021-12-19,Zayna - 5Z319 - LRYF,Opa - S - 5O319 - LRBM,2022-03-07,Puppy Raising
+441,Tim,2T321,Male,LR,B,2021-12-19,Zayna - 5Z319 - LRYF,Opa - S - 5O319 - LRBM,2022-03-13,Puppy Raising
+442,Token,3T321,Male,LR,Y,2021-12-19,Zayna - 5Z319 - LRYF,Opa - S - 5O319 - LRBM,2022-03-05,Puppy Raising
+444,Sophie,8S321,Female,LR,B,2021-12-18,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2022-02-09,Puppy Raising
+445,Seager,6S321,Male,LR,B,2021-12-18,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2022-03-10,Puppy Raising
+447,Scarlett,2S321,Female,LR,B,2021-12-18,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2022-03-11,Puppy Raising
+449,Sawyer,4S321,Male,LR,B,2021-12-18,Roz - 4RR18 - LRBF,Elrod - 6E319 - LRBM,2022-03-12,Puppy Raising
+450,Ruth,1R321,Female,LR,Y,2021-12-17,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,2022-02-17,Puppy Raising
+453,Riley,4R321,Female,LR,Y,2021-12-17,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,2022-02-13,Puppy Raising
+455,Rory,6R321,Female,LR,B,2021-12-17,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,2022-03-05,Puppy Raising
+456,Rumor,7R321,Female,LR,B,2021-12-17,Evie - 4E417 - LRYF,Enrico - 7EE19 - LRBM,2022-03-02,Puppy Raising
+457,Quella,4Q321,Female,LR,B,2021-12-07,Cammie - 3C418 - LRBF,Finn - 7F315 - LRYM,2022-02-23,Puppy Raising
+458,Quince,5Q321,Male,LR,B,2021-12-07,Cammie - 3C418 - LRBF,Finn - 7F315 - LRYM,2022-02-08,Puppy Raising
+459,Patience,1P321,Female,GS,B&T,2021-12-07,Duchess - 3DD19 - GSB&TF,Ogden - 5O314 - GSB&TM,2022-02-13,Puppy Raising
+461,Penelope,3P321,Female,GS,B&T,2021-12-07,Duchess - 3DD19 - GSB&TF,Ogden - 5O314 - GSB&TM,2022-02-02,Puppy Raising
+462,Pete,4P321,Male,GS,B&T,2021-12-07,Duchess - 3DD19 - GSB&TF,Ogden - 5O314 - GSB&TM,2022-02-08,Puppy Raising
+464,Pierre,5P321,Male,GS,B&T,2021-12-07,Duchess - 3DD19 - GSB&TF,Ogden - 5O314 - GSB&TM,2022-02-08,Puppy Raising
+465,Queenie,2Q321,Female,LR,B,2021-12-07,Cammie - 3C418 - LRBF,Finn - 7F315 - LRYM,2022-02-08,Puppy Raising
+467,Orissa,2O321,Female,LR,B,2021-12-04,Zelda - 1Z319 - LRBF,Baron - 4B20 - LRBM,2022-01-27,Puppy Raising
+469,Nemo,4N321,Male,LR,Y,2021-12-02,Goldie - 1G20 - LRYF,Eduardo - 4E419 - LRYM,2022-01-29,Puppy Raising
+470,Norris,5N321,Male,LR,Y,2021-12-02,Goldie - 1G20 - LRYF,Eduardo - 4E419 - LRYM,2022-02-13,Puppy Raising
+472,Noodle,1N321,Male,LR,Y,2021-12-02,Goldie - 1G20 - LRYF,Eduardo - 4E419 - LRYM,2022-01-30,Puppy Raising
+473,Nitro,2N321,Male,LR,Y,2021-12-02,Goldie - 1G20 - LRYF,Eduardo - 4E419 - LRYM,2022-02-09,Puppy Raising
+476,Millie,5M321,Female,LR,Y,2021-11-26,Sally - 5S19 - LRBF,Charlie - 10CC17 - LRYM,2022-02-13,Puppy Raising
+477,Moira,6M321,Female,LR,Y,2021-11-26,Sally - 5S19 - LRBF,Charlie - 10CC17 - LRYM,2022-02-08,Puppy Raising
+479,Lash,2L321,Male,LR,B,2021-11-19,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2022-01-14,Puppy Raising
+480,Layla,3L321,Female,LR,Y,2021-11-19,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2022-01-15,Puppy Raising
+485,Liam,9L321,Male,LR,Y,2021-11-19,Fortune - 4F318 - LRYF,Bosley - 1B418 - LRBM,2022-02-05,Puppy Raising
+488,Kenji,2K321,Male,GS,B&T,2021-11-17,Shea - 5SS18 - GSBF,Eric - 2E19 - GSB&TM,2022-01-15,Puppy Raising
+491,Jenkins,2J321,Male,LR,Y,2021-11-15,Liza - 5L318 - LRBF,Shadow - 1S19 - LRBM,2022-01-14,Puppy Raising
+492,Justice,4J321,Female,LR,Y,2021-11-15,Liza - 5L318 - LRBF,Shadow - 1S19 - LRBM,2022-01-14,Puppy Raising
+493,Jose,5J321,Male,LR,B,2021-11-15,Liza - 5L318 - LRBF,Shadow - 1S19 - LRBM,2022-02-24,Puppy Raising
+497,Izzie,4I321,Female,LR,B,2021-11-05,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,2022-01-12,Puppy Raising
+498,Imus,6I321,Male,LR,B,2021-11-05,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,2022-01-08,Puppy Raising
+499,Idaho,5I321,Male,LR,B,2021-11-05,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,2022-01-30,Puppy Raising
+501,Ira,1I321,Male,LR,B,2021-11-05,Zula - S - 4A317 - LRYF,Darren - 4D20 - LRBM,2022-01-08,Puppy Raising
+502,Harvard,8H321,Male,LR,B,2021-11-03,Mildred - 1M315 - LRBF,Odin - 5OO19 - LRBM,2022-03-07,Puppy Raising
+504,Hans,3H321,Male,LR,B,2021-11-03,Mildred - 1M315 - LRBF,Odin - 5OO19 - LRBM,2022-01-19,Puppy Raising
+507,Havana,6H321,Female,LR,B,2021-11-03,Mildred - 1M315 - LRBF,Odin - 5OO19 - LRBM,2022-01-18,Puppy Raising
+509,Sama,3G321,Female,LR,B,2021-10-23,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,2021-12-19,Puppy Raising
+511,Gary,6G321,Male,LR,Y,2021-10-23,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,2021-12-19,Puppy Raising
+512,Greer,7G321,Female,LR,Y,2021-10-23,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,2021-12-19,Puppy Raising
+513,Gable,8G321,Male,LR,B,2021-10-23,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,2022-01-15,Puppy Raising
+514,Grant,5G321,Male,LR,B,2021-10-23,Lark - 4L18 - LRBF,Gerald - 7G20 - LRYM,2021-12-19,Puppy Raising
+517,Fenway,1F321,Male,LR,Y,2021-10-11,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,2022-01-12,Puppy Raising
+518,Francie,2F321,Female,LR,Y,2021-10-11,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,2021-12-11,Puppy Raising
+520,Francesca,4F321,Female,LR,B,2021-10-11,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,2022-01-15,Puppy Raising
+522,Freddie,7F321,Male,LR,Y,2021-10-11,MacKenzie - S - 2M18 - LRYF,Midnight - 4M19 - LRBM,2022-01-15,Puppy Raising
+525,Deverick,2D321,Male,GS,SABL,2021-10-10,Tawny - 1T318 - GSSABLF,Rugby - 2R319 - GSSABLM,2021-12-09,Puppy Raising
+526,Dove,3D321,Female,GS,SABL,2021-10-10,Tawny - 1T318 - GSSABLF,Rugby - 2R319 - GSSABLM,2021-12-09,Puppy Raising
+527,Dixie,4D321,Female,GS,B&T,2021-10-10,Tawny - 1T318 - GSSABLF,Rugby - 2R319 - GSSABLM,2021-12-11,Puppy Raising
+529,Egypt,2E321,Female,LR,B,2021-10-10,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,2021-12-09,Puppy Raising
+531,Empire,4E321,Male,LR,B,2021-10-10,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,2021-12-19,Puppy Raising
+532,Ezzie,6E321,Female,LR,B,2021-10-10,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,2021-12-14,Puppy Raising
+533,Elwood,7E321,Male,LR,B,2021-10-10,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,2021-12-09,Puppy Raising
+534,Edwina,8E321,Female,LR,B,2021-10-10,Ona - 6O19 - LRBF,Disney - 7D419 - LRB&TM,2022-01-15,Puppy Raising
+536,Crystal,2C321,Female,LR,Y,2021-10-06,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,2021-12-30,Puppy Raising
+537,Champ,3C321,Male,LR,Y,2021-10-06,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,2021-12-19,Puppy Raising
+538,Cadbury,4C321,Male,LR,B,2021-10-06,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,2021-12-14,Puppy Raising
+539,Charlotte,5C321,Female,LR,B,2021-10-06,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,2021-12-14,Puppy Raising
+540,Cersei,6C321,Female,LR,Y,2021-10-06,Bonnie - 4B18 - LRYF,Opa - S - 5O319 - LRBM,2021-12-07,Puppy Raising
+542,Breeze,1B321,Female,LR,B,2021-10-02,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,2021-12-09,Puppy Raising
+543,Benny,7B321,Male,LR,B,2021-10-02,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,2022-01-09,Puppy Raising
+546,Bagel,4B321,Female,LR,B,2021-10-02,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,2021-12-09,Puppy Raising
+547,Barry,5B321,Male,LR,B,2021-10-02,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,2022-01-09,Puppy Raising
+548,Betty,6B321,Female,LR,B,2021-10-02,Dusk - 7D418 - LRBF,Everett - 1E419 - LRYM,2021-12-19,Puppy Raising
+550,Archie,1A321,Male,LR,B,2021-10-02,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,2021-12-14,Puppy Raising
+554,Aura,6A321,Female,LR,B,2021-10-02,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,2021-12-08,Puppy Raising
+555,Autumn,5A321,Female,LR,B,2021-10-02,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,2022-01-15,Puppy Raising
+556,Annabelle,7A321,Female,LR,B,2021-10-02,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,2021-12-03,Puppy Raising
+557,Artemis,8A321,Male,LR,B,2021-10-02,Coco - S - 1C418 - LRBF,Darren - 4D20 - LRBM,2022-01-14,Puppy Raising
+560,Zest,6ZZ21,Male,LR,Y,2021-09-24,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,2021-12-06,Puppy Raising
+561,Ziti,8ZZ21,Female,LR,Y,2021-09-24,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,2021-11-23,Puppy Raising
+563,Zephyr,1ZZ21,Female,LR,Y,2021-09-24,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,2021-12-03,Puppy Raising
+564,Zeb,2ZZ21,Male,LR,Y,2021-09-24,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,2021-11-19,Puppy Raising
+565,Zach,3ZZ21,Male,LR,Y,2021-09-24,Nyla - 2N319 - LRYF,Everett - 1E419 - LRYM,2021-12-11,Puppy Raising
+567,Yonder,2YY21,Male,LR,B,2021-09-23,Kyra - 5KK18 - LRBF,Enrico - 7EE19 - LRBM,2021-12-09,Puppy Raising
+568,Yorktown,6YY21,Male,LR,B,2021-09-23,Kyra - 5KK18 - LRBF,Enrico - 7EE19 - LRBM,2021-11-20,Puppy Raising
+569,Yara,3YY21,Female,LR,B,2021-09-23,Kyra - 5KK18 - LRBF,Enrico - 7EE19 - LRBM,2021-12-11,Puppy Raising
+571,Yang,5YY21,Male,LR,Y,2021-09-23,Kyra - 5KK18 - LRBF,Enrico - 7EE19 - LRBM,2021-12-03,Puppy Raising
+575,Vidal,7VV21,Male,LR,B&T,2021-09-09,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,2021-11-14,Puppy Raising
+576,Vroom,8VV21,Male,LR,B,2021-09-09,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,2021-11-14,Puppy Raising
+580,Velma,3VV21,Female,LR,B,2021-09-09,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,2021-11-17,Puppy Raising
+581,Volt,4VV21,Male,LR,B&T,2021-09-09,Noni - 2N18 - LRBF,Elrod - 6E319 - LRBM,2021-11-04,Puppy Raising
+582,Uriel,1UU21,Female,GS,B&T,2021-09-05,Rue - 4R17 - GSB&TF,Kayden FGDF K28-2M - KAYDEN - GSSABLM *NOP*,2021-10-28,Puppy Raising
+583,Ubie,2UU21,Male,GS,SABL,2021-09-05,Rue - 4R17 - GSB&TF,Kayden FGDF K28-2M - KAYDEN - GSSABLM *NOP*,2021-10-28,Puppy Raising
+585,Trooper,1TT21,Male,GS,B&T,2021-09-02,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,2021-10-28,Puppy Raising
+586,Thunder,2TT21,Male,GS,B&T,2021-09-02,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,2021-10-28,Puppy Raising
+588,Tripp,3TT21,Male,GS,B&T,2021-09-02,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,2021-10-29,Puppy Raising
+590,Truman,5TT21,Male,GS,B&T,2021-09-02,Emery - 4E19 - GSB&TF,Ogden - 5O314 - GSB&TM,2021-10-29,Puppy Raising
+595,Sal,3SS21,Male,LR,B,2021-09-01,Alibi - 2A416 - LRBF,Colonel - 2C319 - LRYM,2021-11-05,Puppy Raising
+596,Soldier,4SS21,Male,LR,Y,2021-09-01,Alibi - 2A416 - LRBF,Colonel - 2C319 - LRYM,2021-11-06,Puppy Raising
+598,Rocket,1RR21,Male,GS,B&T,2021-08-27,Jenny - 1JJ18 - GSB&TF,Kane - 7K319 - GSB&TM,2021-10-28,Puppy Raising
+599,Rosie,2RR21,Female,GS,B&T,2021-08-27,Jenny - 1JJ18 - GSB&TF,Kane - 7K319 - GSB&TM,2021-10-28,Puppy Raising
+600,Robin,3RR21,Female,GS,B&T,2021-08-27,Jenny - 1JJ18 - GSB&TF,Kane - 7K319 - GSB&TM,2021-10-29,Puppy Raising
+601,Roberto,4RR21,Male,GS,B&T,2021-08-27,Jenny - 1JJ18 - GSB&TF,Kane - 7K319 - GSB&TM,2021-10-29,Puppy Raising
+602,Penny,1PP21,Female,LR,B,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-10-28,Puppy Raising
+603,Parker,3PP21,Male,LR,B,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-10-28,Puppy Raising
+604,Petey,2PP21,Male,LR,Y,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-11-05,Puppy Raising
+605,Polly,4PP21,Female,LR,B,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-10-28,Puppy Raising
+606,Pepper,5PP21,Female,LR,B,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-10-28,Puppy Raising
+608,Pixie,6PP21,Female,LR,B,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-10-25,Puppy Raising
+609,Pepsi,9PP21,Female,LR,B,2021-08-19,Oma - S - 1OO15 - LRYF,Dover - 3D19 - LRBM,2021-10-28,Puppy Raising
+610,Quartz,6QQ21,Female,LR,B,2021-08-19,Okemo - 7OO19 - LRBF,Donny - 2D419 - LRBM,2021-10-25,Puppy Raising
+611,Quest,8QQ21,Female,LR,Y,2021-08-19,Okemo - 7OO19 - LRBF,Donny - 2D419 - LRBM,2021-10-28,Puppy Raising
+612,Quaid,7QQ21,Male,LR,B,2021-08-19,Okemo - 7OO19 - LRBF,Donny - 2D419 - LRBM,2021-10-28,Puppy Raising
+613,Orzo,1OO21,Female,LR,Y,2021-08-16,Essence - 3EE18 - LRBF,Enrico - 7EE19 - LRBM,2021-10-25,Puppy Raising
+614,Ollie,2OO21,Male,LR,B,2021-08-16,Essence - 3EE18 - LRBF,Enrico - 7EE19 - LRBM,2021-10-16,Puppy Raising
+615,Ocean,4OO21,Female,LR,Y,2021-08-16,Essence - 3EE18 - LRBF,Enrico - 7EE19 - LRBM,2021-10-12,Puppy Raising
+617,Onslo,5OO21,Male,LR,Y,2021-08-16,Essence - 3EE18 - LRBF,Enrico - 7EE19 - LRBM,2021-10-25,Puppy Raising
+618,Ohana,9OO21,Female,LR,B,2021-08-16,Essence - 3EE18 - LRBF,Enrico - 7EE19 - LRBM,2021-10-29,Puppy Raising
+621,Nelson,1NN21,Male,LR,B,2021-08-11,Gibby - 2G19 - LRBF,Finn - 7F315 - LRYM,2021-10-14,Puppy Raising
+622,Ned,2NN21,Male,LR,B,2021-08-11,Gibby - 2G19 - LRBF,Finn - 7F315 - LRYM,2021-10-28,Puppy Raising
+623,Nikki,5NN21,Female,LR,B,2021-08-11,Gibby - 2G19 - LRBF,Finn - 7F315 - LRYM,2021-10-22,Puppy Raising
+625,Neon,7NN21,Female,LR,B,2021-08-11,Gibby - 2G19 - LRBF,Finn - 7F315 - LRYM,2021-10-22,Puppy Raising
+626,Nestle,8NN21,Female,LR,B,2021-08-11,Gibby - 2G19 - LRBF,Finn - 7F315 - LRYM,2021-10-22,Puppy Raising
+628,Merijul,4MM21,Female,LR,B,2021-08-07,Promise - 2P319 - LRYF,Shadow - 1S19 - LRBM,2021-10-08,Puppy Raising
+629,MacGyver,5MM21,Male,LR,Y,2021-08-07,Promise - 2P319 - LRYF,Shadow - 1S19 - LRBM,2021-10-16,Puppy Raising
+631,Mandy,2MM21,Female,LR,B,2021-08-07,Promise - 2P319 - LRYF,Shadow - 1S19 - LRBM,2021-10-16,Puppy Raising
+632,Macro,3MM21,Male,LR,Y,2021-08-07,Promise - 2P319 - LRYF,Shadow - 1S19 - LRBM,2021-09-30,Puppy Raising
+637,Laurel,1LL21,Female,LR,B,2021-08-05,Nell - 7N416 - LRBF,Donny - 2D419 - LRBM,2021-10-18,Puppy Raising
+639,Lacy,2LL21,Female,LR,B,2021-08-05,Nell - 7N416 - LRBF,Donny - 2D419 - LRBM,2021-10-03,Puppy Raising
+640,Lyons,4LL21,Male,LR,B,2021-08-05,Nell - 7N416 - LRBF,Donny - 2D419 - LRBM,2021-09-30,Puppy Raising
+642,Keats,2KK21,Male,LR,B,2021-07-27,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,2021-10-06,Puppy Raising
+643,Kona,3KK21,Female,LR,B,2021-07-27,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,2021-10-09,Puppy Raising
+645,Krissy,4KK21,Female,LR,B,2021-07-27,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,2021-09-22,Puppy Raising
+646,Kennedy,5KK21,Female,LR,B,2021-07-27,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,2021-10-06,Puppy Raising
+647,Kobe,6KK21,Male,LR,B,2021-07-27,Crumpet - 9C19 - LRBF,Dasher - 6D418 - LRBM,2021-10-03,Puppy Raising
+652,Jewels,3JJ21,Female,LR,B,2021-07-14,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,2021-09-12,Puppy Raising
+654,Jethro,4JJ21,Male,LR,B,2021-07-14,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,2021-09-22,Puppy Raising
+655,Jiffy,5JJ21,Female,LR,Y,2021-07-14,Colleen - 8C319 - LRYF,Waldo - 5W319 - LRBM,2021-09-26,Puppy Raising
+657,Ingrid,6II21,Female,LR,Y,2021-07-12,Farrah - 9F318 - LRYF,Gomer - 4G319 - LRYM,2021-09-11,Puppy Raising
+658,Ike,1II21,Male,LR,Y,2021-07-12,Farrah - 9F318 - LRYF,Gomer - 4G319 - LRYM,2021-09-26,Puppy Raising
+660,Ian,3II21,Male,LR,Y,2021-07-12,Farrah - 9F318 - LRYF,Gomer - 4G319 - LRYM,2021-09-15,Puppy Raising
+661,India,4II21,Female,LR,Y,2021-07-12,Farrah - 9F318 - LRYF,Gomer - 4G319 - LRYM,2021-09-25,Puppy Raising
+662,Hawaii,3HH21,Female,LR,Y,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-09,Puppy Raising
+663,Hazy,4HH21,Female,LR,B,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-09,Puppy Raising
+665,Halsey,7HH21,Female,LR,B,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-12,Puppy Raising
+666,Harry,8HH21,Male,LR,B,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-09,Puppy Raising
+667,Hildy,9HH21,Female,LR,B,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-09,Puppy Raising
+669,Hal,10HH21,Male,LR,Y,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-15,Puppy Raising
+670,Hayley,2HH21,Female,LR,Y,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-12,Puppy Raising
+671,Howard,6HH21,Male,LR,B,2021-07-09,Emblem - 6EE19 - LRYF,Duke - 2DD17 - LRB&TM,2021-09-25,Puppy Raising
+672,Gusto,1GG21,Male,LR,Y,2021-07-05,Quay - 4QQ19 - LRBF,Everett - 1E419 - LRYM,2021-09-08,Puppy Raising
+673,Gadget,2GG21,Male,LR,Y,2021-07-05,Quay - 4QQ19 - LRBF,Everett - 1E419 - LRYM,2021-09-15,Puppy Raising
+675,Ferris,1FF21,Male,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-09-10,Puppy Raising
+676,Flyer,9FF21,Male,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-08-28,Puppy Raising
+678,Felice,11FF21,Female,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-10-06,Puppy Raising
+680,Ford,6FF21,Male,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-09-09,Puppy Raising
+682,Flint,2FF21,Male,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-09-07,Puppy Raising
+683,Fern,3FF21,Female,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-09-04,Puppy Raising
+684,Frodo,4FF21,Male,LR,B,2021-07-02,Oksana - 6OO19 - LRBF,Gomer - 4G319 - LRYM,2021-09-15,Puppy Raising
+687,Elliott,3EE21,Male,LR,B,2021-06-29,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,2021-08-28,Puppy Raising
+688,Ephram,4EE21,Male,LR,B,2021-06-29,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,2021-09-25,Puppy Raising
+691,Elmer,7EE21,Male,LR,B,2021-06-29,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,2021-10-20,Puppy Raising
+692,Elroy,8EE21,Male,LR,B,2021-06-29,Frannie - 2FF17 - LRBF,Dasher - 6D418 - LRBM,2021-08-26,Puppy Raising
+693,Danielle,7DD21,Female,LR,B,2021-06-24,Caprice - 8C318 - LRBF,Ryan - 9RR17 - LRYM,2021-08-21,Puppy Raising
+695,Chi,7CC21,Female,LR,B,2021-06-24,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,2021-08-19,Puppy Raising
+696,Casey,3CC21,Male,LR,B,2021-06-24,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,2021-08-19,Puppy Raising
+698,Cuba,4CC21,Female,LR,B,2021-06-24,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,2021-08-19,Puppy Raising
+699,Colette,5CC21,Female,LR,B,2021-06-24,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,2021-08-27,Puppy Raising
+700,Cobey,6CC21,Male,LR,B,2021-06-24,Fendi - 4F17 - LRBF,Elrod - 6E319 - LRBM,2021-08-24,Puppy Raising
+701,Dante,2DD21,Male,LR,B,2021-06-24,Caprice - 8C318 - LRBF,Ryan - 9RR17 - LRYM,2021-08-20,Puppy Raising
+702,Diesel,6DD21,Male,LR,B,2021-06-24,Caprice - 8C318 - LRBF,Ryan - 9RR17 - LRYM,2022-10-05,In Training
+704,Dexter,3DD21,Male,LR,B,2021-06-24,Caprice - 8C318 - LRBF,Ryan - 9RR17 - LRYM,2021-08-20,Puppy Raising
+706,Betty Ann,2BB21,Female,LR,B,2021-06-18,Buttons - 4B19 - LRYF,Arnie - 2A418 - LRBM,2021-08-20,Puppy Raising
+709,Bunnie,4BB21,Female,LR,B,2021-06-18,Buttons - 4B19 - LRYF,Arnie - 2A418 - LRBM,2021-08-14,Puppy Raising
+710,Arden,1AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-12,Puppy Raising
+711,Augie,2AA21,Male,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-20,Puppy Raising
+712,Annalise,8AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-20,Puppy Raising
+713,Aqua,3AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-20,Puppy Raising
+714,Amaya,4AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-12,Puppy Raising
+715,Angelica,5AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-20,Puppy Raising
+716,Alyssa,6AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-14,Puppy Raising
+717,Alec,7AA21,Male,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-14,Puppy Raising
+718,Adele,9AA21,Female,LR,Y,2021-06-17,Violet - 3VV19 - LRYF,Kisco - 6KK18 - LRYM,2021-08-12,Puppy Raising
+719,Yale,2Y21,Male,LR,B,2021-06-15,Raelyn - 8R318 - LRBF,Gomer - 4G319 - LRYM,2021-08-26,Puppy Raising
+722,Yukon,1Y21,Male,LR,Y,2021-06-15,Raelyn - 8R318 - LRBF,Gomer - 4G319 - LRYM,2021-08-11,Puppy Raising
+723,Yoga,3Y21,Female,LR,Y,2021-06-15,Raelyn - 8R318 - LRBF,Gomer - 4G319 - LRYM,2021-08-11,Puppy Raising
+724,Windy,3W21,Female,LR,B,2021-06-10,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,2021-08-12,Puppy Raising
+726,Winsome,5W21,Female,LR,B,2021-06-10,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,2021-08-08,Puppy Raising
+727,Webster,1W21,Male,LR,B,2021-06-10,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,2021-08-07,Puppy Raising
+728,Wella,6W21,Female,LR,B,2021-06-10,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,2021-08-08,Puppy Raising
+729,Whimsey,7W21,Female,LR,B,2021-06-10,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,2021-08-12,Puppy Raising
+731,Wrangler,8W21,Male,LR,B,2021-06-10,Nadine - 2N318 - LRBF,Odin - 5OO19 - LRBM,2021-08-08,Puppy Raising
+733,Viviann,1V21,Female,LR,Y,2021-06-09,Piper - 1P318 - LRYF,Bosley - 1B418 - LRBM,2022-09-29,In Training
+736,Virgil,7V21,Male,LR,Y,2021-06-09,Piper - 1P318 - LRYF,Bosley - 1B418 - LRBM,2021-08-08,Puppy Raising
+739,Van,2V21,Male,LR,Y,2021-06-09,Piper - 1P318 - LRYF,Bosley - 1B418 - LRBM,2021-08-08,Puppy Raising
+742,Umberto,3U21,Male,LR,B,2021-06-01,Cora - 4C19 - LRBF,Jensen - 7J409 - LRYM,2021-07-29,Puppy Raising
+743,Tex,1T21,Male,LR,B,2021-05-30,Ode - 3O317 - LRYF,Arnie - 2A418 - LRBM,2021-08-08,Puppy Raising
+744,Truffle,3T21,Female,LR,B,2021-05-30,Ode - 3O317 - LRYF,Arnie - 2A418 - LRBM,2021-08-02,Puppy Raising
+745,Tyra,2T21,Female,LR,B,2021-05-30,Ode - 3O317 - LRYF,Arnie - 2A418 - LRBM,2021-07-28,Puppy Raising
+746,Theo,4T21,Male,LR,B,2021-05-30,Ode - 3O317 - LRYF,Arnie - 2A418 - LRBM,2021-07-28,Puppy Raising
+747,Timmy,5T21,Male,LR,B,2021-05-30,Ode - 3O317 - LRYF,Arnie - 2A418 - LRBM,2021-07-30,Puppy Raising
+748,Sugar,1S21,Female,LR,Y,2021-05-26,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,2021-07-23,Puppy Raising
+750,Sammi,2S21,Female,LR,Y,2021-05-26,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,2021-07-23,Puppy Raising
+752,Siggy,3S21,Male,LR,Y,2021-05-26,Brio - S - 6B319 - LRYF,Kisco - 6KK18 - LRYM,2021-07-23,Puppy Raising
+756,Reagan,8R21,Female,LR,Y,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising
+758,Rodeo,7R21,Male,LR,Y,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-20,Puppy Raising
+759,Rusty,2R21,Female,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising
+760,Rodrigo,3R21,Male,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising
+761,Reina,4R21,Female,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising
+764,Roman,6R21,Male,LR,B,2021-05-21,Lace - 8L18 - LRBF,Joe - 4JJ13 - LRBM,2021-07-16,Puppy Raising
+765,Quinn,1Q21,Male,LR,B,2021-05-20,Aloe - 5A17 - LRYF,Elrod - 6E319 - LRBM,2022-08-16,In Training
+766,Poppy,6P21,Female,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-10,Puppy Raising
+767,Posy,7P21,Female,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-10,Puppy Raising
+768,Peony,3P21,Female,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-09,Puppy Raising
+769,Prince,5P21,Male,LR,B,2021-05-14,Flora - 8FF19 - LRBF,Dasher - 6D418 - LRBM,2021-07-10,Puppy Raising
+771,Orla,2O21,Female,LR,Y,2021-05-12,Capri - 2C17 - LRBF,Octane - P - 5O416 - LRYM,2022-10-05,In Training
+772,Oliver,5O21,Male,LR,Y,2021-05-12,Capri - 2C17 - LRBF,Octane - P - 5O416 - LRYM,2022-10-05,In Training
+773,O'Neil,3O21,Male,LR,Y,2021-05-12,Capri - 2C17 - LRBF,Octane - P - 5O416 - LRYM,2022-10-05,In Training
+774,Otis,4O21,Male,LR,B,2021-05-12,Capri - 2C17 - LRBF,Octane - P - 5O416 - LRYM,2021-07-10,Puppy Raising
+775,Nickel,1N21,Male,LR,B,2021-05-09,Tamby - 5TT18 - LRYF,Shadow - 1S19 - LRBM,2022-10-05,In Training
+776,North,2N21,Male,LR,Y,2021-05-09,Tamby - 5TT18 - LRYF,Shadow - 1S19 - LRBM,2021-07-10,Puppy Raising
+778,Nicole,4N21,Female,LR,B,2021-05-09,Tamby - 5TT18 - LRYF,Shadow - 1S19 - LRBM,2021-07-03,Puppy Raising
+779,Nellie,5N21,Female,LR,B,2021-05-09,Tamby - 5TT18 - LRYF,Shadow - 1S19 - LRBM,2022-10-05,In Training
+781,Mary,2M21,Female,LR,B,2021-05-06,Dior - 5D418 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-05,In Training
+783,Mabel,4M21,Female,LR,B,2021-05-06,Dior - 5D418 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-05,In Training
+784,Meg,5M21,Female,LR,B,2021-05-06,Dior - 5D418 - LRBF,Yarmouth - 2YY18 - LRYM,2022-10-05,In Training
+802,Louie,3L21,Male,LR,Y,2021-04-15,Helen - 3HH19 - LRYF,Barlow - P - 5B08 - LRYM,2022-10-07,In Training
+803,Laredo,5L21,Male,LR,Y,2021-04-15,Helen - 3HH19 - LRYF,Barlow - P - 5B08 - LRYM,2022-09-20,In Training
+804,Lindsey,4L21,Female,LR,Y,2021-04-15,Helen - 3HH19 - LRYF,Barlow - P - 5B08 - LRYM,2022-09-20,In Training
+807,Kaya,1K21,Female,LR,B,2021-04-14,Oriole - 9O316 - LRYF,Arby - 5A319 - LRBM,2022-09-20,In Training
+809,Joey,6J21,Male,LR,B,2021-04-14,Gianna - 1G19 - LRBF,Elrod - 6E319 - LRBM,2022-09-20,In Training
+810,Kenneth,3K21,Male,LR,B,2021-04-14,Oriole - 9O316 - LRYF,Arby - 5A319 - LRBM,2021-06-16,Puppy Raising
+812,Jacob,1J21,Male,LR,B,2021-04-14,Gianna - 1G19 - LRBF,Elrod - 6E319 - LRBM,2022-09-20,In Training
+813,Jax,2J21,Male,LR,B,2021-04-14,Gianna - 1G19 - LRBF,Elrod - 6E319 - LRBM,2022-10-05,In Training
+816,Jennifer,5J21,Female,LR,B,2021-04-14,Gianna - 1G19 - LRBF,Elrod - 6E319 - LRBM,2022-09-20,In Training
+818,Ivan,3I21,Male,LR,B,2021-04-09,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,2021-06-16,Puppy Raising
+819,Imari,7I21,Female,LR,B,2021-04-09,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,2022-09-20,In Training
+820,Iroquois,4I21,Male,LR,B,2021-04-09,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,2022-10-05,In Training
+822,Ida,6I21,Female,LR,B,2021-04-09,Via - 6VV18 - LRBF,Arnie - 2A418 - LRBM,2022-09-20,In Training
+823,Hickory,1H21,Male,LR,Y,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2022-09-20,In Training
+824,Hannah,4H21,Female,LR,B,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2022-09-20,In Training
+826,Houston,3H21,Male,LR,B,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2022-10-31,In Training
+827,Holly,5H21,Female,LR,B,2021-04-08,Onyx - 3O417 - LRBF,Shadow - 1S19 - LRBM,2022-07-19,In Training
+829,Felix,3F21,Male,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-08-16,In Training
+830,Fritz,4F21,Male,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-08-31,In Training
+832,Flash,6F21,Male,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-09-20,In Training
+833,Fame,7F21,Female,GS,B&T,2021-03-31,Jazz GDA - 1X20 - GSB&TF,Eric - 2E19 - GSB&TM,2022-08-31,In Training
+834,Grayson,1G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-09-20,In Training
+835,Gibbs,2G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2021-06-05,Puppy Raising
+836,Gatsby,3G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-09-20,In Training
+839,Gideon,4G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-09-20,In Training
+840,Gemini,7G21,Female,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training
+841,Guthrie,8G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-10-07,In Training
+842,Grover,9G21,Male,LR,B,2021-03-31,Fortune - 4F318 - LRYF,Dasher - 6D418 - LRBM,2022-09-20,In Training
+847,Eden,5E+21,Female,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-03,In Training
+848,Epcot,6E+21,Male,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-03,In Training
+849,Enya,4E+21,Female,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-31,In Training
+850,Eve,7E+21,Female,LR,B,2021-03-27,Quail - 6Q417 - LRBF,Elrod - 6E319 - LRBM,2022-08-16,In Training
+852,Dan,1D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-07-07,In Training
+856,Kemp,5D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-08-16,In Training
+857,Douglas,7D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-07-19,In Training
+859,Diego,9D21,Male,LR,B,2021-01-13,Lizzie - 6L315 - LRBF,Odin - 5OO19 - LRBM,2022-08-31,In Training
+860,Josephine,5C21,Female,LR,B,2021-01-11,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,2022-06-29,In Training
+861,Sully,1C21,Male,LR,B,2021-01-11,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,2022-08-31,In Training
+862,Liberty,3C21,Female,LR,B,2021-01-11,Vanna - 4V318 - LRYF,Arnie - 2A418 - LRBM,2022-07-19,In Training
+874,Amethyst,1A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-08-16,In Training
+876,Alice,3A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-08-31,In Training
+878,Amari,4A21,Female,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-10-28,In Training
+880,Alfie2,5A21,Male,LR,B,2021-01-03,Wanita - 5W18 - LRBF,Duke - 2DD17 - LRB&TM,2022-06-29,In Training
+884,Gus,2G320,Male,LR,Y,2020-12-27,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,2022-07-07,In Training
+887,Greeley,10G320,Female,LR,B,2020-12-27,Gibby - 2G19 - LRBF,Vance - 1V318 - LRYM,2022-08-16,In Training
+900,Fairlee,1F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-16,In Training
+901,Flower,2F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training
+902,Florie,4F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-07-28,In Training
+903,Fay,6F320,Female,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training
+904,Fulton,7F320,Male,LR,B,2020-12-22,Mercy - 6MM18 - LRYF,Dasher - 6D418 - LRBM,2022-08-31,In Training
+908,Elijah,6E320,Male,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training
+909,Ensign,7E320,Male,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training
+911,Eleanor,1E320,Female,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training
+913,Emmylou,3E320,Female,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training
+914,Epic,4E320,Male,LR,B,2020-12-17,Nell - 7N416 - LRBF,Oreo - 6O18 - LRBM,2022-05-17,In Training
+922,Charlene,4C320,Female,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-16,In Training
+925,Cayenne,8C320,Female,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-16,In Training
+926,Chevy,2C320,Male,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-31,In Training
+927,Chris,3C320,Male,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-10-07,In Training
+928,Catalina,1C320,Female,LR,B,2020-12-12,Adrienne - 9A418 - LRBF,Dover - 3D19 - LRBM,2022-08-31,In Training
+930,Breezy,2B320,Female,LR,B,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-08-16,In Training
+931,Bryce,5B320,Male,LR,Y,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-07-19,In Training
+934,Bella,4B320,Female,LR,Y,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-06-29,In Training
+935,Barbara,8B320,Female,LR,Y,2020-12-08,Leah - 3LL17 - LRYF,Oreo - 6O18 - LRBM,2022-06-29,In Training
+937,Admiral,3A320,Male,LR,B,2020-12-04,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,2022-05-06,In Training
+938,Acadia,4A320,Female,LR,B,2020-12-04,Joplin - 4J16 - LRYF,Dasher - 6D418 - LRBM,2022-07-19,In Training
+943,Yardley,2YY20,Female,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-07-19,In Training
+945,Yamaha,5YY20,Male,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-07-19,In Training
+946,York,7YY20,Male,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-07-08,In Training
+948,Yoda,9YY20,Male,LR,B,2020-11-19,Roz - 4RR18 - LRBF,Dasher - 6D418 - LRBM,2022-09-08,In Training
+949,Winfrey,1WW20,Female,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-08-16,In Training
+950,Wilder,5WW20,Female,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-07-19,In Training
+951,Weston,2WW20,Male,LR,B,2020-11-18,Lois - 6LL19 - LRYF,Lloyd - 1L19 - LRBM,2022-08-16,In Training
+959,Umpire,4UU20,Male,LR,Y,2020-11-10,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,2022-10-24,In Training
+963,Uber,9UU20,Male,LR,Y,2020-11-10,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,2022-06-29,In Training
+967,Utica,8UU20,Female,LR,B,2020-11-10,Guava - 2G317 - LRYF,Wallace - 5W315 - LRBM,2022-06-29,In Training
+968,Tigger,1TT20,Male,LR,Y,2020-11-01,Dallas - 6D415 - LRYF,Yarmouth - 2YY18 - LRYM,2022-06-29,In Training
+969,Tahoe,2TT20,Male,LR,Y,2020-11-01,Dallas - 6D415 - LRYF,Yarmouth - 2YY18 - LRYM,2022-10-19,In Training
+972,Reggae,8RR20,Male,LR,B,2020-10-28,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,2022-08-05,In Training
+973,Reese,1RR20,Female,LR,Y,2020-10-28,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,2022-06-14,In Training
+974,Randy,2RR20,Male,LR,B,2020-10-28,Nimble - 8N318 - LRBF,Kisco - 6KK18 - LRYM,2022-07-19,In Training
+982,Presley,3PP20,Male,LR,Y,2020-10-09,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,2022-07-19,In Training
+983,Pawling,4PP20,Male,LR,B,2020-10-09,Raelyn - 8R318 - LRBF,Ernest - 4E18 - LRYM,2022-06-29,In Training
+984,Olive,1OO20,Female,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-07-19,In Training
+985,Oakley,2OO20,Male,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-06-14,In Training
+986,Ortega,4OO20,Male,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-05-17,In Training
+987,Olana,5OO20,Female,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-07-19,In Training
+988,Opie,6OO20,Male,LR,B,2020-10-07,Ode - 3O317 - LRYF,Lloyd - 1L19 - LRBM,2022-05-17,In Training
+992,Maeve,4MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-05-17,In Training
+993,Neptune,5NN20,Male,LR,B,2020-09-05,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,2022-06-14,In Training
+995,Miles,2MM20,Male,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training
+996,Martha,3MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-07-19,In Training
+998,Missy,1MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-05-17,In Training
+999,Norm,4NN20,Male,LR,B,2020-09-05,Tamby - 5TT18 - LRYF,Tito - 2T18 - LRBM,2022-06-23,In Training
+1000,Minnie,7MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training
+1001,Michael,6MM20,Male,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-14,In Training
+1002,Maggie,10MM20,Female,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-06-29,In Training
+1004,Marvin,9MM20,Male,LR,B,2020-09-05,Noni - 2N18 - LRBF,Oreo - 6O18 - LRBM,2022-07-19,In Training
+1006,Lemon,5LL20,Female,LR,Y,2020-05-17,Lava - 4L417 - LRBF,Ryan - 9RR17 - LRYM,2022-05-23,In Training
+1011,Koala,6KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training
+1012,Kermit,7KK20,Male,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-04-12,In Training
+1013,Toby,1KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training
+1015,Karma,3KK20,Female,LR,B,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training
+1016,Kurt,4KK20,Male,LR,Y,2020-05-12,Jenna - P - 3J317 - LRBF,Tito - 2T18 - LRBM,2022-06-14,In Training
+1018,Jake,4JJ20,Male,LR,Y,2020-05-10,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,2022-10-12,In Training
+1019,Journey,5JJ20,Female,LR,Y,2020-05-10,Mercy - 6MM18 - LRYF,Yarmouth - 2YY18 - LRYM,2022-06-14,In Training
+1027,Igloo,3II20,Female,LR,Y,2020-05-04,Minka - 6MM17 - LRBF,Flanders - 3F318 - LRYM,2022-05-17,In Training
+1037,Goodman,4GG20,Male,LR,B,2020-04-28,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,2022-04-26,In Training
+1038,Gabriel,5GG20,Male,LR,B,2020-04-28,Lizzie - 6L315 - LRBF,Vassar - 5VV18 - LRBM,2022-04-12,In Training
+1050,Francisco,7FF20,Male,LR,Y,2020-04-24,Erin - P - 5E315 - LRCHOCF,Yarmouth - 2YY18 - LRYM,2022-07-07,In Training
+1051,Eva,5EE20,Female,LR,B,2020-04-21,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,2022-04-12,In Training
+1052,Emerson,6EE20,Male,LR,B,2020-04-21,Nell - 7N416 - LRBF,Wallace - 5W315 - LRBM,2022-05-17,In Training
+1063,Dora,4DD20,Female,LR,B,2020-04-12,Quail - 6Q417 - LRBF,Ryan - 9RR17 - LRYM,2022-05-17,In Training
+1069,Crew,4CC20,Male,LR,Y,2020-04-09,Guava - 2G317 - LRYF,Tito - 2T18 - LRBM,2022-05-06,In Training
+1076,Biscotti,7BB20,Female,LR,Y,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-03-15,In Training
+1078,Luke,11BB20,Male,LR,B,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-04-12,In Training
+1079,Ballou,4BB20,Male,LR,Y,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-04-12,In Training
+1080,Bart,5BB20,Male,LR,B,2020-04-01,Lace - 8L18 - LRBF,Kisco - 6KK18 - LRYM,2022-04-12,In Training
+1091,Yonkers,6Y20,Male,LR,B,2020-03-24,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,2022-04-12,In Training
+1092,Yacht,7Y20,Male,LR,Y,2020-03-24,Capri - 2C17 - LRBF,Ryan - 9RR17 - LRYM,2022-04-12,In Training
+1105,Louis,1U20,Male,LR,Y,2020-03-15,Oriole - 9O316 - LRYF,Kaplan - 1KK16 - LRBM,2022-04-12,In Training
+1119,Roswell,8R20,Female,LR,B,2020-03-07,Tiara - 6TT15 - LRBF,Kisco - 6KK18 - LRYM,2022-03-15,In Training
+1125,Shamrock,2S20,Female,LR,B,2020-03-05,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,2022-03-15,In Training
+1128,Sharon,7S20,Female,LR,Y,2020-03-05,Frannie - 2FF17 - LRBF,Ryan - 9RR17 - LRYM,2022-02-15,In Training
+1134,Omega,4O20,Female,LR,Y,2020-03-01,Evie - 4E417 - LRYF,Oreo - 6O18 - LRBM,2022-02-15,In Training
+1148,Noah,3N20,Male,LR,B,2020-02-19,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,2022-03-15,In Training
+1149,Nita,2N20,Female,LR,Y,2020-02-19,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,2022-06-30,In Training
+1153,Nyssa,1N20,Female,LR,B,2020-02-19,Orly - 7O14 - LRBF,Higgins - 4H17 - LRBM,2022-03-15,In Training
+1157,Montana,5M20,Male,LR,Y,2020-02-09,Bianca - P - 5B317 - LRYF,Ernest - 4E18 - LRYM,2022-03-15,In Training
+1165,Lancelot,4L20,Male,LR,Y,2020-02-05,Bonnie - 4B18 - LRYF,Garcia - 4G16 - LRYM,2022-07-25,In Training
+1177,Kerry,7K20,Female,LR,B,2020-02-04,Noni - 2N18 - LRBF,Octane - P - 5O416 - LRYM,2021-10-18,In Training
+1193,Happy,2H20,Female,LR,Y,2020-01-24,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,2022-01-11,In Training
+1194,Harmony,3H20,Female,LR,B,2020-01-24,Edna - S - 1EE17 - LRBF,Charlie - 10CC17 - LRYM,2022-04-26,In Training
+1202,Francis,2F20,Male,LR,B,2020-01-23,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2022-02-15,In Training
+1203,Fallon,3F20,Female,LR,B,2020-01-23,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2022-10-13,In Training
+1204,Fernando,4F20,Male,LR,B,2020-01-23,Winter - 1W18 - LRBF,Ryan - 9RR17 - LRYM,2022-02-15,In Training
+1223,Denali,2D20,Male,LR,Y,2020-01-10,Maya - 4MM15 - LRBF,Edgar - 1E315 - LRBM,2022-02-15,In Training
+1241,Buddy,9B20,Male,LR,B,2020-01-07,Lark - 4L18 - LRBF,Finn - 7F315 - LRYM,2022-02-15,In Training
+1318,Yani,3Y319,Female,LR,Y,2019-11-06,Harlow - 1H16 - LRYF,Zinc - 8ZZ17 - LRYM,2021-12-14,In Training
+1456,Charles,1C319,Male,LR,Y,2019-07-16,Emerald - 7E15 - LRYF,Octane - P - 5O416 - LRYM,2021-07-13,In Training
+1470,Arby,5A319,Male,LR,B,2019-07-05,Vickie - 2V15 - LRYF,Jody - 3J15 - LRBM,2021-05-13,In Training
